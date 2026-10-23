@@ -1,0 +1,43 @@
+{
+  "source_sha256": "f42dbd7ebab9e1ec50a5fe3a5f1b9d638b1102575f36596e0b928478295129d5",
+  "crosswalk": [
+    {
+      "item_id": 207,
+      "item": "ECM",
+      "registry": "h1.E",
+      "runtime": "w7.Q",
+      "status": "confirmed_static"
+    },
+    {
+      "item_id": 208,
+      "item": "Targeting AI",
+      "registry": "h1.F",
+      "runtime": "turret_aim_independent_not_torpedo_range",
+      "status": "confirmed_catalog_only_here"
+    },
+    {
+      "item_id": 216,
+      "item": "Advanced Guidance",
+      "registry": "h1.N",
+      "runtime": "f8.m and fi.A",
+      "status": "confirmed_static"
+    },
+    {
+      "item_id": null,
+      "item": "system interference",
+      "registry": "k8.l",
+      "runtime": "gi.b",
+      "status": "nebula_semantics_candidate"
+    },
+    {
+      "item_id": null,
+      "item": "torpedo steering",
+      "registry": "Lei.O/Lei.N",
+      "runtime": "fi.n and jj.e",
+      "status": "partially_traced"
+    }
+  ],
+  "interference_rule": "interference = system.k8_l + (target_ecm ? 30 : 0); if (shooter_adv_guidance) interference /= 2 (integer)",
+  "source": "gi.smali b(Lw7;)I, w7.smali upgrade equip, h1/public.xml",
+  "needs_runtime_validation": true
+}
