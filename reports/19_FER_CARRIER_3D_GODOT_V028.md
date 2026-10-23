@@ -1,6 +1,6 @@
 # F.E.R. Carrier — Rekonstruksi 3D untuk Godot v0.1 + Flight v0.2.8
 
-**24 Oktober 2026 (sekitar malam 23–24 Oktober WIB).** Ini **asset 3D GLB asli**, bukan gambar konsep, dihasilkan dari model prosedural. **Belum dites runtime Godot Android**; sudah diuji validitas ZIP/GLB secara statis.
+**23 Oktober 2026.** Ini **asset 3D GLB asli**, bukan gambar konsep, dihasilkan dari model prosedural. **Belum dites runtime Godot Android**; sudah diuji validitas ZIP/GLB secara statis.
 
 ## Referensi yang digunakan
 - Sprite asli dari archive user Space RPG 4 v0.9995: `res/drawable/ship_fer_battleship_carrier.png` sebagai referensi **tampak atas**.
