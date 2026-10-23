@@ -23,6 +23,7 @@
 - [17 — Kamera v0.2.6: otomatis kembali CHASE saat NPC hancur](reports/17_CAMERA_AUTORETURN_V026.md)
 - [18 — Unified Camera, Auto Target Track & Planet Scale v0.2.7](reports/18_CAMERA_PLANETS_V027.md)
 - [19 — F.E.R. Carrier: GLB 3D dan integrasi Godot v0.2.8](reports/19_FER_CARRIER_3D_GODOT_V028.md)
+- [20 — Earth Orbital Dock & Ship Outfitting v0.2.9](reports/20_EARTH_DOCK_OUTFITTING_V029.md)
 - [Riwayat tes Godot Android dan roadmap](reports/PROJECT_STATUS_AND_TESTS.md)
 - [Data hasil audit](data/)
 
