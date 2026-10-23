@@ -15,6 +15,7 @@
 - [09 — NPC, Factions, Spawn & Combat AI Tahap 7](reports/09_NPC_FACTIONS_SPAWN_TAHAP7.md)
 - [10 — NPC Threat, Decision & Flight Tahap 8](reports/10_NPC_THREAT_DECISION_TAHAP8.md)
 - [11 — NPC Combat Controller, Range & Tactics Tahap 9](reports/11_NPC_COMBAT_RANGE_TAHAP9.md)
+- [12 — Turret, Weapon Range & Damage Tahap 10](reports/12_TURRET_DAMAGE_SENSOR_TAHAP10.md)
 - [Riwayat tes Godot Android dan roadmap](reports/PROJECT_STATUS_AND_TESTS.md)
 - [Data hasil audit](data/)
 

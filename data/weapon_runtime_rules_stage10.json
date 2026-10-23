@@ -1,0 +1,32 @@
+{
+  "source_version": "0.9995(44)",
+  "audit_date": "2026-10-23",
+  "status": "static_only_not_godot_tested",
+  "original_smali_sha256": "f42dbd7ebab9e1ec50a5fe3a5f1b9d638b1102575f36596e0b928478295129d5",
+  "weapon_sequence": [
+    "f8.a => zj.f aim",
+    "f8.g => zj.b fire",
+    "f8.d => defense type2"
+  ],
+  "projectile_rule": "if_target_and_arc_condition: distance_squared < zj.m^2+2500",
+  "beam_uses_gaussian": true,
+  "torpedo_max_launch_range_confirmed": false,
+  "defense_fields": {
+    "shield_current": "e8.b",
+    "shield_max": "e8.f",
+    "hull_current": "e8.c",
+    "hull_max": "e8.g",
+    "armor_quadrants": "e8.d[]",
+    "armor_max": "e8.h[]",
+    "energy_current": "b8.b",
+    "energy_regen": "b8.c",
+    "energy_max": "b8.d"
+  },
+  "not_yet_verified": [
+    "sensor range",
+    "all subclass fire conditions",
+    "3D yaw pitch and hull raycast",
+    "final per weapon damage channel meanings"
+  ],
+  "integration_status": "not_started"
+}
