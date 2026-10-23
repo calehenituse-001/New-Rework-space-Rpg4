@@ -1,0 +1,162 @@
+{
+  "source_version": "0.9995(44)",
+  "source_sha256": "f42dbd7ebab9e1ec50a5fe3a5f1b9d638b1102575f36596e0b928478295129d5",
+  "source": "w4.smali pswitch_4 ~4248-4836; k2.smali c(Lk2;)Z",
+  "mapping_type": "static_unvalidated_runtime",
+  "directional": true,
+  "rule": "k2.c(other) tests this.e.charAt(other.b)==Y; k2.a(index) sets Y, k2.b(index) sets N",
+  "warning": "ID8 reuses Independent display string; relation chars beyond ID11 are not mapped here",
+  "factions": [
+    {
+      "id": 0,
+      "name": "Player",
+      "raw_mask": "NNNNNYYYNNYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        5,
+        6,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Independent",
+      "raw_mask": "NNNNNNNNNNNNNNNNNNN",
+      "flags_Y_to_ids_0_11": []
+    },
+    {
+      "id": 2,
+      "name": "F.E.R.",
+      "raw_mask": "NNNYYYYYNNYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 3,
+      "name": "T.A.",
+      "raw_mask": "NNYNYYYYNNYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 4,
+      "name": "O.S.C.",
+      "raw_mask": "NNYYNYYYNNYYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pirate",
+      "raw_mask": "NNYYYNYYYYYYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Irohaem",
+      "raw_mask": "NNNNNYNYNNYYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        5,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Quilentya",
+      "raw_mask": "NNNNNYYNNNYYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        5,
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Independent (ID 8, label from reused register)",
+      "raw_mask": "NNNNNYNNNNNYNNNNNNN",
+      "flags_Y_to_ids_0_11": [
+        5,
+        11
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kalo",
+      "raw_mask": "NNNNNNNNNNNYNNNNNNN",
+      "flags_Y_to_ids_0_11": [
+        11
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Void Raiders",
+      "raw_mask": "YYYYYYYYYYNYYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Death",
+      "raw_mask": "YYYYYYYYYYYNYYYYYYYY",
+      "flags_Y_to_ids_0_11": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ]
+}
