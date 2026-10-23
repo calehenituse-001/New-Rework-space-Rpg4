@@ -18,6 +18,7 @@
 - [12 — Turret, Weapon Range & Damage Tahap 10](reports/12_TURRET_DAMAGE_SENSOR_TAHAP10.md)
 - [13 — Grav/Analytic Sensors, Weapon Variants & Damage Tahap 11](reports/13_SENSOR_VARIANTS_DAMAGE_TAHAP11.md)
 - [14 — Combat Harness Godot v0.2.4: implementasi & tes](reports/14_COMBAT_HARNESS_V024.md)
+- [15 — Android v0.2.4 feedback + Target NPC camera fix v0.2.5](reports/15_ANDROID_TARGET_CAMERA_FIX_V025.md)
 - [Riwayat tes Godot Android dan roadmap](reports/PROJECT_STATUS_AND_TESTS.md)
 - [Data hasil audit](data/)
 
