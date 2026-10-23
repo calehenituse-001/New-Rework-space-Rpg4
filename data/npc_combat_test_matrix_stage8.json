@@ -1,0 +1,57 @@
+{
+  "stage": 8,
+  "all_not_run": true,
+  "source_version": "0.9995(44)",
+  "tests": [
+    {
+      "id": "T8-A",
+      "test": "event projectile hits target; observe threat if legal",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-B",
+      "test": "rapid repeated damage; cap/cooldown behavior",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-C",
+      "test": "target destroyed removed from threat list",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-D",
+      "test": "dynamic faction friend/foe and safe-zone",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-E",
+      "test": "distinguish sensor passive discovery and damage reaction",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-F",
+      "test": "ship out-of-range approaches without firing",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-G",
+      "test": "side mount blocked by own hull",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-H",
+      "test": "manual joystick cancels AUTO with inertia preserved",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-I",
+      "test": "carrier fighter has separate target and parent ship",
+      "status": "not_run"
+    },
+    {
+      "id": "T8-J",
+      "test": "script random selection when nextInt returns 0",
+      "status": "not_run"
+    }
+  ]
+}
