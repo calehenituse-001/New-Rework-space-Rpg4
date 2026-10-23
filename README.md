@@ -25,6 +25,7 @@
 - [19 — F.E.R. Carrier: GLB 3D dan integrasi Godot v0.2.8](reports/19_FER_CARRIER_3D_GODOT_V028.md)
 - [20 — Earth Orbital Dock & Ship Outfitting v0.2.9](reports/20_EARTH_DOCK_OUTFITTING_V029.md)
 - [21 — Commerce, Upgrade & Overhaul Godot v0.3.0](reports/21_STATION_COMMERCE_UPGRADE_OVERHAUL_V030.md)
+- [21 — Godot v0.3.0 Commerce, inventory & Upgrade](reports/21_STATION_COMMERCE_UPGRADE_V030.md)
 - [Riwayat tes Godot Android dan roadmap](reports/PROJECT_STATUS_AND_TESTS.md)
 - [Data hasil audit](data/)
 
