@@ -11,6 +11,7 @@
 - [05 — Registry senjata dan range tahap 3](reports/05_WEAPONS_TAHAP3.md)
 - [06 — Torpedo & preset tahap 4](reports/06_TORPEDO_PRESETS_TAHAP4.md)
 - [07 — **Guidance/ECM/damage pipeline tahap 5 (baru)**](reports/07_GUIDANCE_ECM_DAMAGE_TAHAP5.md)
+- [08 — Sol, Earth, Luna, Agrodome & docking tahap 6](reports/08_SOL_PLANET_DOCKING_TAHAP6.md)
 - [Riwayat tes Godot Android dan roadmap](reports/PROJECT_STATUS_AND_TESTS.md)
 - [Data hasil audit](data/)
 

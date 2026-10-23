@@ -1,0 +1,104 @@
+{
+  "version": "0.9995(44)",
+  "audit": "static-only",
+  "evidence": "h1.smali b([Lk2;)V; z6.smali a()V; dj.smali tab flags; o5.smali render construction",
+  "units": "internal 2D, NOT meters",
+  "system": {
+    "id": 0,
+    "name": "Sol",
+    "galaxy_2d": [
+      0,
+      0
+    ],
+    "owner_faction_id": 2,
+    "owner": "F.E.R.",
+    "raw_spawn_weights": {
+      "Independent": 45,
+      "F.E.R.": 45,
+      "T.A.": 5
+    }
+  },
+  "confirmed_named_world_objects": [
+    {
+      "id": 0,
+      "name": "Earth",
+      "system_id": 0,
+      "coord_2d": [
+        0,
+        0
+      ],
+      "size_k5": 256,
+      "style_U4": 4,
+      "UV_X4": 1024,
+      "UV_W4": 512,
+      "UV_V4": 0,
+      "shipyard": true,
+      "commerce": true,
+      "trade_centre": true,
+      "O4": 0,
+      "Q4": 0,
+      "l5": null
+    },
+    {
+      "id": 1,
+      "name": "Luna",
+      "system_id": 0,
+      "coord_2d": [
+        350,
+        -150
+      ],
+      "size_k5": 64,
+      "style_U4": 7,
+      "UV_X4": 1024,
+      "UV_W4": 128,
+      "UV_V4": 3,
+      "shipyard": false,
+      "commerce": false,
+      "trade_centre": false,
+      "O4": 1,
+      "Q4": 1,
+      "l5": -95
+    },
+    {
+      "id": 87,
+      "name": "Agrodome 1",
+      "system_id": 0,
+      "coord_2d": [
+        -500,
+        -300
+      ],
+      "size_k5": 128,
+      "style_U4": 11,
+      "UV_X4": 1024,
+      "UV_W4": 256,
+      "UV_V4": 7,
+      "shipyard": false,
+      "commerce": false,
+      "trade_centre": false,
+      "O4": -1,
+      "Q4": 17,
+      "l5": -95
+    },
+    {
+      "id": 88,
+      "name": "Agrodome 2",
+      "system_id": 0,
+      "coord_2d": [
+        -380,
+        -410
+      ],
+      "size_k5": 128,
+      "style_U4": 11,
+      "UV_X4": 1024,
+      "UV_W4": 256,
+      "UV_V4": 7,
+      "shipyard": false,
+      "commerce": false,
+      "trade_centre": false,
+      "O4": -1,
+      "Q4": 17,
+      "l5": -95
+    }
+  ],
+  "warning": "Not a full list of dynamic/story/save objects; system K4=0 fixed objects only."
+}
