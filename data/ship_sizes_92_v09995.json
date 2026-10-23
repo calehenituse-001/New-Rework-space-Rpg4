@@ -1,0 +1,925 @@
+{
+  "source": "Space RPG 4 v0.9995(44), h1.smali; n/o are 2D design size units not meters",
+  "ships": [
+    {
+      "id": 4,
+      "name": "Crate",
+      "length_2d_units": 30,
+      "width_2d_units": 20,
+      "max_velocity": 80.0,
+      "turn_rate": 150.0,
+      "mass_stat": 10.0,
+      "smali_factory": "j1"
+    },
+    {
+      "id": 6,
+      "name": "Courier",
+      "length_2d_units": 50,
+      "width_2d_units": 35,
+      "max_velocity": 65.0,
+      "turn_rate": 63.0,
+      "mass_stat": 20.0,
+      "smali_factory": "P0"
+    },
+    {
+      "id": 7,
+      "name": "Mustang",
+      "length_2d_units": 50,
+      "width_2d_units": 35,
+      "max_velocity": 120.0,
+      "turn_rate": 120.0,
+      "mass_stat": 30.0,
+      "smali_factory": "Z0"
+    },
+    {
+      "id": 8,
+      "name": "Reliant",
+      "length_2d_units": 50,
+      "width_2d_units": 35,
+      "max_velocity": 60.0,
+      "turn_rate": 78.0,
+      "mass_stat": 20.0,
+      "smali_factory": "g1"
+    },
+    {
+      "id": 9,
+      "name": "Reliant Mk2",
+      "length_2d_units": 50,
+      "width_2d_units": 35,
+      "max_velocity": 60.0,
+      "turn_rate": 93.0,
+      "mass_stat": 20.0,
+      "smali_factory": "h1"
+    },
+    {
+      "id": 10,
+      "name": "Wander",
+      "length_2d_units": 55,
+      "width_2d_units": 35,
+      "max_velocity": 75.0,
+      "turn_rate": 78.0,
+      "mass_stat": 60.0,
+      "smali_factory": "o1"
+    },
+    {
+      "id": 11,
+      "name": "Dawnstar",
+      "length_2d_units": 55,
+      "width_2d_units": 35,
+      "max_velocity": 65.0,
+      "turn_rate": 82.0,
+      "mass_stat": 80.0,
+      "smali_factory": "Q0"
+    },
+    {
+      "id": 12,
+      "name": "Gryllidae",
+      "length_2d_units": 55,
+      "width_2d_units": 35,
+      "max_velocity": 70.0,
+      "turn_rate": 120.0,
+      "mass_stat": 50.0,
+      "smali_factory": "U0"
+    },
+    {
+      "id": 13,
+      "name": "Bruiser",
+      "length_2d_units": 50,
+      "width_2d_units": 36,
+      "max_velocity": 65.0,
+      "turn_rate": 72.0,
+      "mass_stat": 50.0,
+      "smali_factory": "M0"
+    },
+    {
+      "id": 14,
+      "name": "Bulk Freighter",
+      "length_2d_units": 100,
+      "width_2d_units": 100,
+      "max_velocity": 30.0,
+      "turn_rate": 27.0,
+      "mass_stat": 20.0,
+      "smali_factory": "N0"
+    },
+    {
+      "id": 15,
+      "name": "F.T. Conveyor",
+      "length_2d_units": 120,
+      "width_2d_units": 80,
+      "max_velocity": 54.0,
+      "turn_rate": 40.0,
+      "mass_stat": 50.0,
+      "smali_factory": "O0"
+    },
+    {
+      "id": 16,
+      "name": "Prospero",
+      "length_2d_units": 64,
+      "width_2d_units": 48,
+      "max_velocity": 60.0,
+      "turn_rate": 72.0,
+      "mass_stat": 50.0,
+      "smali_factory": "f1"
+    },
+    {
+      "id": 17,
+      "name": "Onager",
+      "length_2d_units": 80,
+      "width_2d_units": 60,
+      "max_velocity": 45.0,
+      "turn_rate": 54.0,
+      "mass_stat": 140.0,
+      "smali_factory": "b1"
+    },
+    {
+      "id": 18,
+      "name": "Nightstalker",
+      "length_2d_units": 80,
+      "width_2d_units": 60,
+      "max_velocity": 60.0,
+      "turn_rate": 63.0,
+      "mass_stat": 150.0,
+      "smali_factory": "n1"
+    },
+    {
+      "id": 19,
+      "name": "Intrepid",
+      "length_2d_units": 80,
+      "width_2d_units": 80,
+      "max_velocity": 45.0,
+      "turn_rate": 60.0,
+      "mass_stat": 130.0,
+      "smali_factory": "V0"
+    },
+    {
+      "id": 20,
+      "name": "F.T. Brabant",
+      "length_2d_units": 80,
+      "width_2d_units": 80,
+      "max_velocity": 40.0,
+      "turn_rate": 45.0,
+      "mass_stat": 120.0,
+      "smali_factory": "L0"
+    },
+    {
+      "id": 21,
+      "name": "Venture",
+      "length_2d_units": 104,
+      "width_2d_units": 68,
+      "max_velocity": 50.0,
+      "turn_rate": 28.0,
+      "mass_stat": 220.0,
+      "smali_factory": "m1"
+    },
+    {
+      "id": 22,
+      "name": "Valiant",
+      "length_2d_units": 128,
+      "width_2d_units": 80,
+      "max_velocity": 45.0,
+      "turn_rate": 47.0,
+      "mass_stat": 230.0,
+      "smali_factory": "l1"
+    },
+    {
+      "id": 23,
+      "name": "Pioneer",
+      "length_2d_units": 128,
+      "width_2d_units": 80,
+      "max_velocity": 40.0,
+      "turn_rate": 47.0,
+      "mass_stat": 200.0,
+      "smali_factory": "c1"
+    },
+    {
+      "id": 24,
+      "name": "Odyssey",
+      "length_2d_units": 128,
+      "width_2d_units": 80,
+      "max_velocity": 30.0,
+      "turn_rate": 32.0,
+      "mass_stat": 350.0,
+      "smali_factory": "a1"
+    },
+    {
+      "id": 25,
+      "name": "Princeps Navis",
+      "length_2d_units": 190,
+      "width_2d_units": 160,
+      "max_velocity": 30.0,
+      "turn_rate": 30.0,
+      "mass_stat": 400.0,
+      "smali_factory": "d1"
+    },
+    {
+      "id": 26,
+      "name": "Sovereign",
+      "length_2d_units": 200,
+      "width_2d_units": 80,
+      "max_velocity": 35.0,
+      "turn_rate": 30.0,
+      "mass_stat": 370.0,
+      "smali_factory": "k1"
+    },
+    {
+      "id": 27,
+      "name": "Small Tanker",
+      "length_2d_units": 80,
+      "width_2d_units": 55,
+      "max_velocity": 50.0,
+      "turn_rate": 63.0,
+      "mass_stat": 10.0,
+      "smali_factory": "R0"
+    },
+    {
+      "id": 28,
+      "name": "Tanker",
+      "length_2d_units": 150,
+      "width_2d_units": 64,
+      "max_velocity": 40.0,
+      "turn_rate": 48.0,
+      "mass_stat": 20.0,
+      "smali_factory": "T0"
+    },
+    {
+      "id": 29,
+      "name": "Super Tanker",
+      "length_2d_units": 200,
+      "width_2d_units": 100,
+      "max_velocity": 35.0,
+      "turn_rate": 35.0,
+      "mass_stat": 30.0,
+      "smali_factory": "S0"
+    },
+    {
+      "id": 30,
+      "name": "I.M. Reliant",
+      "length_2d_units": 50,
+      "width_2d_units": 35,
+      "max_velocity": 80.0,
+      "turn_rate": 93.0,
+      "mass_stat": 20.0,
+      "smali_factory": "Y0"
+    },
+    {
+      "id": 31,
+      "name": "I.M. Onager",
+      "length_2d_units": 80,
+      "width_2d_units": 60,
+      "max_velocity": 60.0,
+      "turn_rate": 54.0,
+      "mass_stat": 140.0,
+      "smali_factory": "W0"
+    },
+    {
+      "id": 32,
+      "name": "I.M. Princeps",
+      "length_2d_units": 190,
+      "width_2d_units": 160,
+      "max_velocity": 36.0,
+      "turn_rate": 30.0,
+      "mass_stat": 400.0,
+      "smali_factory": "X0"
+    },
+    {
+      "id": 33,
+      "name": "F.E.R. Battleship",
+      "length_2d_units": 240,
+      "width_2d_units": 100,
+      "max_velocity": 30.0,
+      "turn_rate": 30.0,
+      "mass_stat": 500.0,
+      "smali_factory": "h0"
+    },
+    {
+      "id": 34,
+      "name": "F.E.R. Cruiser",
+      "length_2d_units": 150,
+      "width_2d_units": 60,
+      "max_velocity": 35.0,
+      "turn_rate": 40.0,
+      "mass_stat": 380.0,
+      "smali_factory": "n0"
+    },
+    {
+      "id": 35,
+      "name": "F.E.R. Destroyer",
+      "length_2d_units": 110,
+      "width_2d_units": 40,
+      "max_velocity": 40.0,
+      "turn_rate": 52.0,
+      "mass_stat": 150.0,
+      "smali_factory": "o0"
+    },
+    {
+      "id": 36,
+      "name": "F.E.R. Frigate",
+      "length_2d_units": 80,
+      "width_2d_units": 30,
+      "max_velocity": 60.0,
+      "turn_rate": 75.0,
+      "mass_stat": 70.0,
+      "smali_factory": "s0"
+    },
+    {
+      "id": 37,
+      "name": "F.E.R. Corvette",
+      "length_2d_units": 50,
+      "width_2d_units": 20,
+      "max_velocity": 100.0,
+      "turn_rate": 180.0,
+      "mass_stat": 30.0,
+      "smali_factory": "m0"
+    },
+    {
+      "id": 38,
+      "name": "F.E.R. Runner",
+      "length_2d_units": 80,
+      "width_2d_units": 30,
+      "max_velocity": 145.0,
+      "turn_rate": 75.0,
+      "mass_stat": 50.0,
+      "smali_factory": "j0"
+    },
+    {
+      "id": 39,
+      "name": "O.S.C. Battleship",
+      "length_2d_units": 200,
+      "width_2d_units": 140,
+      "max_velocity": 28.0,
+      "turn_rate": 20.0,
+      "mass_stat": 600.0,
+      "smali_factory": "v1"
+    },
+    {
+      "id": 40,
+      "name": "O.S.C. Cruiser",
+      "length_2d_units": 200,
+      "width_2d_units": 100,
+      "max_velocity": 32.0,
+      "turn_rate": 27.0,
+      "mass_stat": 400.0,
+      "smali_factory": "A1"
+    },
+    {
+      "id": 41,
+      "name": "O.S.C. Destroyer",
+      "length_2d_units": 110,
+      "width_2d_units": 90,
+      "max_velocity": 36.0,
+      "turn_rate": 36.0,
+      "mass_stat": 250.0,
+      "smali_factory": "B1"
+    },
+    {
+      "id": 42,
+      "name": "O.S.C. Frigate",
+      "length_2d_units": 60,
+      "width_2d_units": 50,
+      "max_velocity": 48.0,
+      "turn_rate": 48.0,
+      "mass_stat": 100.0,
+      "smali_factory": "E1"
+    },
+    {
+      "id": 43,
+      "name": "O.S.C. Corvette",
+      "length_2d_units": 30,
+      "width_2d_units": 35,
+      "max_velocity": 80.0,
+      "turn_rate": 100.0,
+      "mass_stat": 40.0,
+      "smali_factory": "z1"
+    },
+    {
+      "id": 44,
+      "name": "T.A. Battleship",
+      "length_2d_units": 200,
+      "width_2d_units": 140,
+      "max_velocity": 34.0,
+      "turn_rate": 31.0,
+      "mass_stat": 530.0,
+      "smali_factory": "j2"
+    },
+    {
+      "id": 45,
+      "name": "T.A. Cruiser",
+      "length_2d_units": 180,
+      "width_2d_units": 100,
+      "max_velocity": 37.0,
+      "turn_rate": 43.0,
+      "mass_stat": 390.0,
+      "smali_factory": "o2"
+    },
+    {
+      "id": 46,
+      "name": "T.A. Destroyer",
+      "length_2d_units": 128,
+      "width_2d_units": 60,
+      "max_velocity": 45.0,
+      "turn_rate": 54.0,
+      "mass_stat": 180.0,
+      "smali_factory": "p2"
+    },
+    {
+      "id": 47,
+      "name": "T.A. Aggressor",
+      "length_2d_units": 70,
+      "width_2d_units": 70,
+      "max_velocity": 37.0,
+      "turn_rate": 42.0,
+      "mass_stat": 200.0,
+      "smali_factory": "i2"
+    },
+    {
+      "id": 48,
+      "name": "T.A. Scorpion",
+      "length_2d_units": 62,
+      "width_2d_units": 46,
+      "max_velocity": 60.0,
+      "turn_rate": 75.0,
+      "mass_stat": 80.0,
+      "smali_factory": "t2"
+    },
+    {
+      "id": 49,
+      "name": "T.A. Frigate",
+      "length_2d_units": 90,
+      "width_2d_units": 40,
+      "max_velocity": 60.0,
+      "turn_rate": 80.0,
+      "mass_stat": 80.0,
+      "smali_factory": "s2"
+    },
+    {
+      "id": 50,
+      "name": "T.A. Corvette",
+      "length_2d_units": 40,
+      "width_2d_units": 24,
+      "max_velocity": 105.0,
+      "turn_rate": 165.0,
+      "mass_stat": 30.0,
+      "smali_factory": "n2"
+    },
+    {
+      "id": 51,
+      "name": "Dreadhulk",
+      "length_2d_units": 150,
+      "width_2d_units": 100,
+      "max_velocity": 50.0,
+      "turn_rate": 54.0,
+      "mass_stat": 350.0,
+      "smali_factory": "F1"
+    },
+    {
+      "id": 52,
+      "name": "Scythe",
+      "length_2d_units": 120,
+      "width_2d_units": 70,
+      "max_velocity": 60.0,
+      "turn_rate": 75.0,
+      "mass_stat": 180.0,
+      "smali_factory": "G1"
+    },
+    {
+      "id": 53,
+      "name": "Raider",
+      "length_2d_units": 70,
+      "width_2d_units": 50,
+      "max_velocity": 80.0,
+      "turn_rate": 128.0,
+      "mass_stat": 70.0,
+      "smali_factory": "H1"
+    },
+    {
+      "id": 54,
+      "name": "Skiff",
+      "length_2d_units": 32,
+      "width_2d_units": 20,
+      "max_velocity": 105.0,
+      "turn_rate": 180.0,
+      "mass_stat": 30.0,
+      "smali_factory": "I1"
+    },
+    {
+      "id": 55,
+      "name": "Iro Titan",
+      "length_2d_units": 380,
+      "width_2d_units": 200,
+      "max_velocity": 30.0,
+      "turn_rate": 20.0,
+      "mass_stat": 990.0,
+      "smali_factory": "s1"
+    },
+    {
+      "id": 56,
+      "name": "Iro Battleship",
+      "length_2d_units": 255,
+      "width_2d_units": 112,
+      "max_velocity": 34.0,
+      "turn_rate": 30.0,
+      "mass_stat": 570.0,
+      "smali_factory": "p1"
+    },
+    {
+      "id": 57,
+      "name": "Iro Cruiser",
+      "length_2d_units": 184,
+      "width_2d_units": 92,
+      "max_velocity": 37.0,
+      "turn_rate": 40.0,
+      "mass_stat": 300.0,
+      "smali_factory": "q1"
+    },
+    {
+      "id": 58,
+      "name": "Iro Destroyer",
+      "length_2d_units": 96,
+      "width_2d_units": 56,
+      "max_velocity": 45.0,
+      "turn_rate": 52.0,
+      "mass_stat": 180.0,
+      "smali_factory": "r1"
+    },
+    {
+      "id": 59,
+      "name": "Quilyotida TI",
+      "length_2d_units": 380,
+      "width_2d_units": 180,
+      "max_velocity": 30.0,
+      "turn_rate": 20.0,
+      "mass_stat": 940.0,
+      "smali_factory": "W1"
+    },
+    {
+      "id": 60,
+      "name": "Quilyoboda BC",
+      "length_2d_units": 174,
+      "width_2d_units": 100,
+      "max_velocity": 35.0,
+      "turn_rate": 36.0,
+      "mass_stat": 520.0,
+      "smali_factory": "T1"
+    },
+    {
+      "id": 61,
+      "name": "Quilyofirda FR",
+      "length_2d_units": 66,
+      "width_2d_units": 44,
+      "max_velocity": 65.0,
+      "turn_rate": 86.0,
+      "mass_stat": 100.0,
+      "smali_factory": "V1"
+    },
+    {
+      "id": 62,
+      "name": "Quilyocorda CV",
+      "length_2d_units": 30,
+      "width_2d_units": 20,
+      "max_velocity": 100.0,
+      "turn_rate": 150.0,
+      "mass_stat": 30.0,
+      "smali_factory": "U1"
+    },
+    {
+      "id": 63,
+      "name": "Kalo",
+      "length_2d_units": 96,
+      "width_2d_units": 56,
+      "max_velocity": 140.0,
+      "turn_rate": 140.0,
+      "mass_stat": 200.0,
+      "smali_factory": "u1"
+    },
+    {
+      "id": 64,
+      "name": "Void Titan",
+      "length_2d_units": 380,
+      "width_2d_units": 180,
+      "max_velocity": 34.0,
+      "turn_rate": 24.0,
+      "mass_stat": 950.0,
+      "smali_factory": "Q2"
+    },
+    {
+      "id": 65,
+      "name": "Void Battlecruiser",
+      "length_2d_units": 174,
+      "width_2d_units": 100,
+      "max_velocity": 40.0,
+      "turn_rate": 40.0,
+      "mass_stat": 580.0,
+      "smali_factory": "N2"
+    },
+    {
+      "id": 66,
+      "name": "Void Interdictor",
+      "length_2d_units": 174,
+      "width_2d_units": 100,
+      "max_velocity": 24.0,
+      "turn_rate": 28.0,
+      "mass_stat": 340.0,
+      "smali_factory": "P2"
+    },
+    {
+      "id": 67,
+      "name": "Void Frigate",
+      "length_2d_units": 90,
+      "width_2d_units": 40,
+      "max_velocity": 65.0,
+      "turn_rate": 84.0,
+      "mass_stat": 80.0,
+      "smali_factory": "O2"
+    },
+    {
+      "id": 68,
+      "name": "Illuminator",
+      "length_2d_units": 256,
+      "width_2d_units": 100,
+      "max_velocity": 85.0,
+      "turn_rate": 45.0,
+      "mass_stat": 200.0,
+      "smali_factory": "D"
+    },
+    {
+      "id": 69,
+      "name": "F.E.R. Flagship",
+      "length_2d_units": 240,
+      "width_2d_units": 100,
+      "max_velocity": 30.0,
+      "turn_rate": 30.0,
+      "mass_stat": 500.0,
+      "smali_factory": "r0"
+    },
+    {
+      "id": 70,
+      "name": "Homebase",
+      "length_2d_units": 240,
+      "width_2d_units": 100,
+      "max_velocity": 15.0,
+      "turn_rate": 30.0,
+      "mass_stat": 100.0,
+      "smali_factory": "t1"
+    },
+    {
+      "id": 71,
+      "name": "Kynigos",
+      "length_2d_units": 64,
+      "width_2d_units": 32,
+      "max_velocity": 85.0,
+      "turn_rate": 90.0,
+      "mass_stat": 80.0,
+      "smali_factory": "Q1"
+    },
+    {
+      "id": 72,
+      "name": "Boreas",
+      "length_2d_units": 150,
+      "width_2d_units": 60,
+      "max_velocity": 40.0,
+      "turn_rate": 40.0,
+      "mass_stat": 320.0,
+      "smali_factory": "N1"
+    },
+    {
+      "id": 73,
+      "name": "Kharon",
+      "length_2d_units": 250,
+      "width_2d_units": 100,
+      "max_velocity": 35.0,
+      "turn_rate": 34.0,
+      "mass_stat": 600.0,
+      "smali_factory": "J1"
+    },
+    {
+      "id": 74,
+      "name": "Ares",
+      "length_2d_units": 350,
+      "width_2d_units": 210,
+      "max_velocity": 22.0,
+      "turn_rate": 20.0,
+      "mass_stat": 1150.0,
+      "smali_factory": "R1"
+    },
+    {
+      "id": 75,
+      "name": "Colony Ship",
+      "length_2d_units": 60,
+      "width_2d_units": 35,
+      "max_velocity": 35.0,
+      "turn_rate": 63.0,
+      "mass_stat": 20.0,
+      "smali_factory": "M1"
+    },
+    {
+      "id": 76,
+      "name": "Ruinous Predator",
+      "length_2d_units": 325,
+      "width_2d_units": 218,
+      "max_velocity": 30.0,
+      "turn_rate": 9.0,
+      "mass_stat": 700.0,
+      "smali_factory": "E"
+    },
+    {
+      "id": 77,
+      "name": "Ruinous Executor",
+      "length_2d_units": 346,
+      "width_2d_units": 400,
+      "max_velocity": 20.0,
+      "turn_rate": 4.0,
+      "mass_stat": 900.0,
+      "smali_factory": "C"
+    },
+    {
+      "id": 79,
+      "name": "F.E.R. Fighter",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 115.0,
+      "turn_rate": 150.0,
+      "mass_stat": 10.0,
+      "smali_factory": "p0"
+    },
+    {
+      "id": 80,
+      "name": "T.A. Fighter",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 120.0,
+      "turn_rate": 140.0,
+      "mass_stat": 10.0,
+      "smali_factory": "q2"
+    },
+    {
+      "id": 81,
+      "name": "O.S.C. Fighter",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 105.0,
+      "turn_rate": 140.0,
+      "mass_stat": 10.0,
+      "smali_factory": "C1"
+    },
+    {
+      "id": 82,
+      "name": "F.E.R. Bomber",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 70.0,
+      "turn_rate": 100.0,
+      "mass_stat": 10.0,
+      "smali_factory": "k0"
+    },
+    {
+      "id": 83,
+      "name": "T.A. Bomber",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 75.0,
+      "turn_rate": 90.0,
+      "mass_stat": 10.0,
+      "smali_factory": "l2"
+    },
+    {
+      "id": 84,
+      "name": "O.S.C Bomber",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 65.0,
+      "turn_rate": 90.0,
+      "mass_stat": 10.0,
+      "smali_factory": "x1"
+    },
+    {
+      "id": 85,
+      "name": "Type1-F Fighter",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 105.0,
+      "turn_rate": 140.0,
+      "mass_stat": 10.0,
+      "smali_factory": "v0"
+    },
+    {
+      "id": 86,
+      "name": "Type1-B Bomber",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 64.0,
+      "turn_rate": 100.0,
+      "mass_stat": 10.0,
+      "smali_factory": "t0"
+    },
+    {
+      "id": 87,
+      "name": "Merlin",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 120.0,
+      "turn_rate": 155.0,
+      "mass_stat": 10.0,
+      "smali_factory": "O1"
+    },
+    {
+      "id": 88,
+      "name": "Kingfisher",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 74.0,
+      "turn_rate": 105.0,
+      "mass_stat": 10.0,
+      "smali_factory": "K1"
+    },
+    {
+      "id": 89,
+      "name": "F.E.R. Battleship Mk2",
+      "length_2d_units": 240,
+      "width_2d_units": 100,
+      "max_velocity": 30.0,
+      "turn_rate": 30.0,
+      "mass_stat": 560.0,
+      "smali_factory": "i0"
+    },
+    {
+      "id": 90,
+      "name": "T.A. Battlecarrier",
+      "length_2d_units": 200,
+      "width_2d_units": 140,
+      "max_velocity": 34.0,
+      "turn_rate": 31.0,
+      "mass_stat": 550.0,
+      "smali_factory": "k2"
+    },
+    {
+      "id": 91,
+      "name": "O.S.C. C-Battleship",
+      "length_2d_units": 200,
+      "width_2d_units": 140,
+      "max_velocity": 28.0,
+      "turn_rate": 20.0,
+      "mass_stat": 600.0,
+      "smali_factory": "w1"
+    },
+    {
+      "id": 92,
+      "name": "Salvager",
+      "length_2d_units": 120,
+      "width_2d_units": 80,
+      "max_velocity": 35.0,
+      "turn_rate": 40.0,
+      "mass_stat": 100.0,
+      "smali_factory": "i1"
+    },
+    {
+      "id": 93,
+      "name": "Retriever",
+      "length_2d_units": 25,
+      "width_2d_units": 20,
+      "max_velocity": 74.0,
+      "turn_rate": 105.0,
+      "mass_stat": 10.0,
+      "smali_factory": "f0"
+    },
+    {
+      "id": 94,
+      "name": "Hermes",
+      "length_2d_units": 410,
+      "width_2d_units": 178,
+      "max_velocity": 35.0,
+      "turn_rate": 28.0,
+      "mass_stat": 940.0,
+      "smali_factory": "S1"
+    },
+    {
+      "id": 95,
+      "name": "Hyperblock Probe",
+      "length_2d_units": 30,
+      "width_2d_units": 30,
+      "max_velocity": 1.0,
+      "turn_rate": 150.0,
+      "mass_stat": 1.0,
+      "smali_factory": "d2"
+    },
+    {
+      "id": 96,
+      "name": "Rhino Princeps",
+      "length_2d_units": 190,
+      "width_2d_units": 160,
+      "max_velocity": 30.0,
+      "turn_rate": 30.0,
+      "mass_stat": 400.0,
+      "smali_factory": "e1"
+    },
+    {
+      "id": 118,
+      "name": "Condor",
+      "length_2d_units": 150,
+      "width_2d_units": 100,
+      "max_velocity": 40.0,
+      "turn_rate": 44.0,
+      "mass_stat": 240.0,
+      "smali_factory": "x0"
+    }
+  ]
+}

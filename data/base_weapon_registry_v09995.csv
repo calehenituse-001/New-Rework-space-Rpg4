@@ -1,0 +1,80 @@
+base_weapon_id,name,weapon_runtime_type_a,mount_size_b,family,source_factory,catalog_confirmed,q6_speed_raw_f,q6_lifetime_ms_k,q6_range_formula_candidate,q6_delay_raw_l,ei_speed_raw_f,ei_lifetime_ms_k,ei_range_formula_candidate,ei_launch_interval_raw_n,energy_or_cost_raw_n,raw_ammo_flag_q,B_source_line_relative,raw_q6_damage_g,raw_q6_damage_h,raw_q6_energy_m,raw_ei_damage_g,raw_ei_damage_h,raw_q4_range_l,raw_x4_cooldown_d,is_ciws_defence_not_ship_attack,is_special_nonship_damage,turret_mount_tag_expected,extraction_confidence
+0,Weapon 0,0,0,q6 projectile,inline@B,True,300.0,1500,450.0,1200,,,,,13.0,,185,10.0,10.0,3.5,,,,,False,False,0,direct Smali literal
+1,Blaster,0,0,q6 projectile,inline@B,True,288.0,1500,432.0,1800,,,,,12.0,,546,4.0,4.0,1.5,,,,,False,False,0,direct Smali literal
+2,Striker,0,0,q6 projectile,inline@B,True,264.0,1600,422.4,1700,,,,,11.0,,921,5.0,3.0,1.0,,,,,False,False,0,direct Smali literal
+3,Hades SB,0,0,q6 projectile,inline@B,True,270.0,1600,432.0,1800,,,,,9.0,,1281,4.0,6.0,1.5,,,,,False,False,0,direct Smali literal
+4,Needle,0,0,q6 projectile,inline@B,True,300.0,1450,435.0,2000,,,,,9.0,,1661,4.0,4.0,2.0,,,,,False,False,0,direct Smali literal
+5,Small Bombard,0,0,q6 projectile,inline@B,True,240.0,1700,408.0,2000,,,,,11.0,,2036,3.0,3.0,1.5,,,,,False,False,0,direct Smali literal
+6,Stinger,0,0,q6 projectile,inline@B,True,300.0,1600,480.0,1600,,,,,11.0,,2415,5.0,5.0,1.5,,,,,False,False,0,direct Smali literal
+7,NR-38,0,0,q6 projectile,inline@B,True,246.0,1600,393.6,2000,,,,,11.0,,2799,3.0,5.0,1.5,,,,,False,False,0,direct Smali literal
+8,Culverin,0,0,q6 projectile,inline@B,True,300.0,1600,480.0,1800,,,,,13.0,,3174,6.0,3.0,1.0,,,,,False,False,0,direct Smali literal
+9,CIWS,2,0,q6 projectile,inline@B,True,480.0,500,240.0,100,,,,,13.0,,3515,3.0,3.0,0.0,,,,,True,False,0,direct Smali literal
+10,Warden CIWS,2,0,q6 projectile,inline@B,True,480.0,700,336.0,100,,,,,13.0,,3859,4.0,4.0,0.0,,,,,True,False,0,direct Smali literal
+11,HEC,0,1,q6 projectile,inline@B,True,300.0,1500,450.0,1200,,,,,18.0,,4031,10.0,10.0,3.5,,,,,False,False,1,direct Smali literal
+12,Pulse Emitter,0,1,q6 projectile,inline@B,True,288.0,1500,432.0,1600,,,,,22.0,,4463,14.0,8.0,4.0,,,,,False,False,1,direct Smali literal
+13,Jumping Jimmy,0,1,q6 projectile,inline@B,True,300.0,1500,450.0,100,,,,,22.0,,4909,5.0,6.0,2.0,,,,,False,False,1,direct Smali literal
+14,Avenger,0,1,q6 projectile,inline@B,True,276.0,1800,496.8,1400,,,,,20.0,,5329,16.0,10.0,2.0,,,,,False,False,1,direct Smali literal
+15,Punisher,0,1,q6 projectile,N3,True,300.0,1500,450.0,2400,,,,,19.0,,5349,22.0,25.0,6.0,,,,,False,False,1,direct Smali literal
+16,Strike Blaster,0,1,q6 projectile,O3,True,294.0,1580,464.52,2000,,,,,21.0,,5369,14.0,20.0,5.0,,,,,False,False,1,direct Smali literal
+17,Piranha,0,1,q6 projectile,P3,True,276.0,1600,441.6,1800,,,,,18.0,,5389,23.0,7.0,2.5,,,,,False,False,1,direct Smali literal
+18,Sabre,0,1,q6 projectile,Q3,True,312.0,1500,468.0,1400,,,,,22.0,,5409,14.0,14.0,5.0,,,,,False,False,1,direct Smali literal
+19,AC-1000,0,1,q6 projectile,R3,True,288.0,1400,403.2,3800,,,,,18.0,,5429,15.0,60.0,18.0,,,,,False,False,1,direct Smali literal
+20,Defender,0,1,q6 projectile,G3,True,300.0,1750,525.0,1500,,,,,16.0,1,5449,18.0,12.0,4.5,,,,,False,False,1,direct Smali literal
+21,Autocannon,0,1,q6 projectile,H3,True,300.0,1500,450.0,400,,,,,22.0,,5469,4.0,2.0,0.80000001,,,,,False,False,1,direct Smali literal
+22,Med. Cannon,0,1,q6 projectile,I3,True,270.0,1800,486.0,2200,,,,,28.0,,5489,25.0,18.0,2.0,,,,,False,False,1,direct Smali literal
+23,,0,1,q6 projectile,J3,False,300.0,1400,420.0,200,,,,,12.0,,5509,6.0,5.0,3.5,,,,,False,False,1,direct Smali literal
+24,Irochaser,3,1,q4 beam,inline@B,True,,,,,,,,,12.0,,5855,,,,,,0.0,,False,False,1,direct Smali literal
+25,QL Emitter,5,1,x4 special,inline@B,True,,,,,,,,,10.0,,6053,,,,,,,2500,False,False,1,direct Smali literal
+26,V.R. Puncher,0,1,q6 projectile,K3,True,330.0,1800,594.0,300,,,,,20.0,,6073,14.0,10.0,2.0,,,,,False,False,1,direct Smali literal
+27,Mining Blaster,0,1,q6 projectile,L3,True,300.0,2000,600.0,1000,,,,,18.0,,6093,6.0,10.0,2.0,,,,,False,False,1,direct Smali literal
+28,Gressian Bident,0,1,q6 projectile,M3,True,540.0,1600,864.0,2000,,,,,22.0,,6113,11.0,11.0,5.0,,,,,False,False,1,direct Smali literal
+29,,0,1,q6 projectile,I3,False,270.0,1800,486.0,2200,,,,,28.0,,6133,25.0,18.0,2.0,,,,,False,False,1,direct Smali literal
+30,,0,1,q6 projectile,I3,False,270.0,1800,486.0,2200,,,,,28.0,,6153,25.0,18.0,2.0,,,,,False,False,1,direct Smali literal
+31,Starstrike,0,2,q6 projectile,m3,True,300.0,1500,450.0,1700,,,,,24.0,,6173,28.0,26.0,7.5,,,,,False,False,2,direct Smali literal
+32,Nova Core,0,2,q6 projectile,x3,True,300.0,1800,540.0,2800,,,,,40.0,,6193,52.0,62.0,24.0,,,,,False,False,2,direct Smali literal
+33,Desolator,0,2,q6 projectile,z3,True,288.0,2000,576.0,2000,,,,,36.0,,6213,24.0,24.0,5.5,,,,,False,False,2,direct Smali literal
+34,Liberator,0,2,q6 projectile,A3,True,312.0,1600,499.2,2100,,,,,24.0,,6233,38.0,19.0,9.0,,,,,False,False,2,direct Smali literal
+35,Void\'s Calling,0,2,q6 projectile,B3,True,300.0,1500,450.0,500,,,,,16.0,,6253,20.0,17.0,12.0,,,,,False,False,2,direct Smali literal
+36,Meteora,0,2,q6 projectile,C3,True,282.0,1850,521.7,2200,,,,,40.0,1,6273,42.0,40.0,17.0,,,,,False,False,2,direct Smali literal
+37,Viper,0,2,q6 projectile,D3,True,450.0,1500,675.0,1500,,,,,35.0,,6293,20.0,8.0,7.0,,,,,False,False,2,direct Smali literal
+38,Purifier,0,2,q6 projectile,E3,True,330.0,1500,495.0,2000,,,,,22.0,1,6313,27.0,42.0,14.0,,,,,False,False,2,direct Smali literal
+39,Mjolnir,0,2,q6 projectile,F3,True,300.0,1600,480.0,3000,,,,,38.0,1,6333,60.0,52.0,22.0,,,,,False,False,2,direct Smali literal
+40,H. Autocannon,0,2,q6 projectile,n3,True,300.0,1500,450.0,200,,,,,22.0,,6353,4.0,2.0,0.80000001,,,,,False,False,2,direct Smali literal
+41,H. Cannon,0,2,q6 projectile,o3,True,282.0,2000,564.0,2200,,,,,40.0,,6373,36.0,22.0,3.0,,,,,False,False,2,direct Smali literal
+42,Dual Pounder,0,2,q6 projectile,p3,True,288.0,1500,432.0,1400,,,,,36.0,,6393,26.0,8.0,3.0,,,,,False,False,2,direct Smali literal
+43,Super Howitzer,0,2,q6 projectile,q3,True,240.0,2500,600.0,2800,,,,,40.0,,6413,50.0,40.0,4.0,,,,,False,False,2,direct Smali literal
+44,Sunderer,0,2,q6 projectile,r3,True,258.0,1400,361.2,1800,,,,,34.0,,6433,45.0,20.0,12.0,,,,,False,False,2,direct Smali literal
+45,Irocannon,0,2,q6 projectile,s3,True,300.0,1700,510.0,2000,,,,,55.0,1,6453,34.0,34.0,7.0,,,,,False,False,2,direct Smali literal
+46,Kalospear,0,2,q6 projectile,t3,True,540.0,1700,918.0,250,,,,,16.0,,6473,15.0,15.0,7.0,,,,,False,False,2,direct Smali literal
+47,V.R. Knockout,0,2,q6 projectile,u3,True,330.0,1800,594.0,600,,,,,36.0,,6493,27.0,24.0,7.0,,,,,False,False,2,direct Smali literal
+48,Ruinous Cannon,0,2,q6 projectile,v3,True,390.0,1700,663.0,400,,,,,55.0,1,6513,36.0,36.0,10.0,,,,,False,False,2,direct Smali literal
+49,Ion Cannon,0,2,q6 projectile,w3,True,330.0,2000,660.0,2400,,,,,45.0,1,6533,18.0,4.0,7.0,,,,,False,False,2,direct Smali literal
+50,Gressian Pike,0,2,q6 projectile,y3,True,540.0,1700,918.0,2500,,,,,45.0,0,6553,23.0,20.0,9.0,,,,,False,False,2,direct Smali literal
+51,Irohammer,0,5,q6 projectile,V3,True,300.0,2000,600.0,2800,,,,,68.0,1,6573,60.0,75.0,40.0,,,,,False,False,5,direct Smali literal
+52,Sky Piercer,6,5,x4 special,W3,True,,,,,,,,,36.0,,6593,,,,,,,3000,False,False,5,direct Smali literal
+53,Illuminator,7,5,x4 special,X3,True,,,,,,,,,10.0,,6613,,,,,,,2500,False,False,5,direct Smali literal
+54,Vulcanus,0,5,q6 projectile,Y3,True,294.0,2400,705.6,3000,,,,,64.0,,6633,75.0,65.0,48.0,,,,,False,False,5,direct Smali literal
+55,,0,2,q6 projectile,q3,False,240.0,2500,600.0,2800,,,,,40.0,,6653,50.0,40.0,4.0,,,,,False,False,2,direct Smali literal
+56,AD PD,4,0,unresolved,S3,True,,,,,,,,,13.0,,6673,,,,,,,,False,True,0,weapon family only / object not fully resolved
+57,,0,0,q6 projectile,T3,False,300.0,1600,480.0,150,,,,,13.0,,6693,4.0,5.0,1.0,,,,,False,False,0,direct Smali literal
+58,,0,0,q6 projectile,U3,False,540.0,1500,810.0,2000,,,,,9.0,,6713,3.0,3.0,2.0,,,,,False,False,0,direct Smali literal
+59,,0,2,q6 projectile,q3,False,240.0,2500,600.0,2800,,,,,40.0,,6733,50.0,40.0,4.0,,,,,False,False,2,direct Smali literal
+60,,0,2,q6 projectile,q3,False,240.0,2500,600.0,2800,,,,,40.0,,6753,50.0,40.0,4.0,,,,,False,False,2,direct Smali literal
+61,,1,4,ei torpedo,Z3,False,,,,,150.0,10000,1500.0,4000,,,6773,,,,90.0,140.0,,,False,False,4,direct Smali literal
+62,,1,4,ei torpedo,j4,False,,,,,162.0,10000,1620.0,4000,,,6793,,,,180.0,40.0,,,False,False,4,direct Smali literal
+63,,1,4,ei torpedo,k4,False,,,,,162.0,10000,1620.0,4000,,,6813,,,,50.0,80.0,,,False,False,4,direct Smali literal
+64,,1,4,ei torpedo,l4,False,,,,,270.0,10000,2700.0,4000,,,6833,,,,120.0,170.0,,,False,False,4,direct Smali literal
+65,,1,4,ei torpedo,m4,False,,,,,125.99999237,12000,1512.0,4000,,,6853,,,,50.0,215.0,,,False,False,4,direct Smali literal
+66,,1,4,ei torpedo,n4,False,,,,,72.0,18000,1296.0,4000,,,6873,,,,240.0,320.0,,,False,False,4,direct Smali literal
+67,,1,4,ei torpedo,o4,False,,,,,102.0,18000,1836.0,4000,,,6893,,,,200.0,200.0,,,False,False,4,direct Smali literal
+68,,1,4,ei torpedo,p4,False,,,,,204.0,12000,2448.0,4000,,,6913,,,,60.0,90.0,,,False,False,4,direct Smali literal
+69,,1,4,ei torpedo,q4,False,,,,,150.0,12000,1800.0,4000,,,6933,,,,75.0,105.0,,,False,False,4,direct Smali literal
+70,,1,4,ei torpedo,a4,False,,,,,138.0,17000,2346.0,4000,,,6953,,,,70.0,100.0,,,False,False,4,direct Smali literal
+71,,1,4,ei torpedo,b4,False,,,,,204.0,10000,2040.0,1000,,,6973,,,,35.0,40.0,,,False,False,4,direct Smali literal
+72,,1,4,ei torpedo,c4,False,,,,,192.0,10000,1920.0,400,,,6993,,,,40.0,50.0,,,False,False,4,direct Smali literal
+73,,1,4,ei torpedo,d4,False,,,,,150.0,10000,1500.0,6000,,,7013,,,,150.0,150.0,,,False,False,4,direct Smali literal
+74,,1,4,ei torpedo,e4,False,,,,,174.0,12000,2088.0,2750,,,7033,,,,65.0,75.0,,,False,False,4,direct Smali literal
+75,,1,4,ei torpedo,f4,False,,,,,78.0,20000,1560.0,400,,,7053,,,,120.0,100.0,,,False,False,4,direct Smali literal
+76,,1,4,ei torpedo,g4,False,,,,,150.0,8000,1200.0,20000,,,7073,,,,0.0,0.0,,,False,False,4,direct Smali literal
+77,,1,4,ei torpedo,h4,False,,,,,120.0,12000,1440.0,1000,,,7093,,,,80.0,80.0,,,False,False,4,direct Smali literal
+78,,1,4,ei torpedo,i4,False,,,,,330.0,10000,3300.0,550,,,7113,,,,50.0,70.0,,,False,False,4,direct Smali literal

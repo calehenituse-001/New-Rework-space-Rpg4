@@ -1,0 +1,572 @@
+ship_id,name,factory,length_2d,width_2d,slot_index,slot_tag_2d,x_2d,y_2d,mount_angle_deg,arc_center_deg,arc_width_deg,verification
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,0,0,33.0,-50.0,-180.0,-120.0,180.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,1,0,-33.0,-50.0,180.0,120.0,180.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,2,0,0,-59.0,-180.0,-180.0,210.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,3,1.0,0,18.0,0,0,150.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,4,1.0,-24.0,26.0,0,45.0,120.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,5,1.0,24.0,26.0,0,-45.0,120.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,6,2.0,0,49.0,0,0,120.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,7,2.0,-29.0,-13.0,0,30.0,90.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,8,2.0,29.0,-13.0,0,-30.0,90.0,static_raw_2d
+40,O.S.C. Cruiser,public static A1()Lu7;,200,100,9,4.0,0,-8.0,0,0,0,static_raw_2d
+41,O.S.C. Destroyer,public static B1()Lu7;,110,90,0,0,33.0,2.0,0,-30.0,120.0,static_raw_2d
+41,O.S.C. Destroyer,public static B1()Lu7;,110,90,1,0,-33.0,2.0,0,30.0,120.0,static_raw_2d
+41,O.S.C. Destroyer,public static B1()Lu7;,110,90,2,0,18.0,-15.0,-180.0,-150.0,180.0,static_raw_2d
+41,O.S.C. Destroyer,public static B1()Lu7;,110,90,3,0,-18.0,-15.0,180.0,150.0,180.0,static_raw_2d
+41,O.S.C. Destroyer,public static B1()Lu7;,110,90,4,1.0,0,29.0,0,0,60.0,static_raw_2d
+41,O.S.C. Destroyer,public static B1()Lu7;,110,90,5,1.0,-24.0,17.0,0,0,60.0,static_raw_2d
+41,O.S.C. Destroyer,public static B1()Lu7;,110,90,6,1.0,24.0,17.0,0,0,60.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,0,2.0,-147.0,-53.0,0,45.0,120.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,1,2.0,147.0,-53.0,0,-45.0,120.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,2,2.0,-108.0,-30.0,0,45.0,120.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,3,2.0,108.0,-30.0,0,-45.0,120.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,4,4.0,-182.0,-58.0,0,0,0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,5,4.0,182.0,-58.0,0,0,0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,6,4.0,-152.0,-88.0,90.0,90.0,0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,7,4.0,152.0,-88.0,-90.0,-90.0,0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,8,0,-142.0,-108.0,90.0,90.0,120.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,9,0,142.0,-108.0,-90.0,-90.0,120.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,10,5.0,40.0,-30.0,0,0,120.0,static_raw_2d
+77,Ruinous Executor,public static C()Lu7;,346,400,11,5.0,-40.0,-30.0,0,0,120.0,static_raw_2d
+81,O.S.C. Fighter,public static C1()Lu7;,25,20,0,0,0,0,0,0,0,static_raw_2d
+68,Illuminator,public static D()Lu7;,256,100,0,5.0,0,30.0,0,0,0,static_raw_2d
+68,Illuminator,public static D()Lu7;,256,100,1,0,10.0,-34.0,0,-90.0,330.0,static_raw_2d
+68,Illuminator,public static D()Lu7;,256,100,2,0,-10.0,-34.0,0,90.0,330.0,static_raw_2d
+76,Ruinous Predator,public static E()Lu7;,325,218,0,2.0,-67.0,-23.0,0,45.0,120.0,static_raw_2d
+76,Ruinous Predator,public static E()Lu7;,325,218,1,2.0,67.0,-23.0,0,-45.0,120.0,static_raw_2d
+76,Ruinous Predator,public static E()Lu7;,325,218,2,2.0,-38.0,5.0,0,45.0,120.0,static_raw_2d
+76,Ruinous Predator,public static E()Lu7;,325,218,3,2.0,38.0,5.0,0,-45.0,120.0,static_raw_2d
+76,Ruinous Predator,public static E()Lu7;,325,218,4,4.0,-92.0,-28.0,0,0,0,static_raw_2d
+76,Ruinous Predator,public static E()Lu7;,325,218,5,4.0,92.0,-28.0,0,0,0,static_raw_2d
+42,O.S.C. Frigate,public static E1()Lu7;,60,50,0,0,12.0,18.0,0,-30.0,90.0,static_raw_2d
+42,O.S.C. Frigate,public static E1()Lu7;,60,50,1,0,-12.0,18.0,0,30.0,90.0,static_raw_2d
+42,O.S.C. Frigate,public static E1()Lu7;,60,50,2,1.0,0,-2.0,0,0,30.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,0,0,-24.0,20.0,0,0,150.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,1,0,24.0,20.0,0,0,150.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,2,0,-19.0,-52.0,0,30.0,150.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,3,0,19.0,-52.0,0,-30.0,150.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,4,1.0,19.0,48.0,0,-30.0,120.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,5,1.0,-19.0,48.0,0,30.0,120.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,6,1.0,38.0,-46.0,0,-30.0,120.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,7,1.0,-38.0,-46.0,0,30.0,120.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,8,2.0,20.0,-16.0,0,-30.0,120.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,9,2.0,-20.0,-16.0,0,30.0,120.0,static_raw_2d
+51,Dreadhulk,public static F1()Lu7;,150,100,10,4.0,0,15.0,0,0,0,static_raw_2d
+52,Scythe,public static G1()Lu7;,120,70,0,0,-9.0,4.0,0,0,120.0,static_raw_2d
+52,Scythe,public static G1()Lu7;,120,70,1,0,9.0,4.0,0,0,120.0,static_raw_2d
+52,Scythe,public static G1()Lu7;,120,70,2,1.0,0,25.0,0,0,90.0,static_raw_2d
+52,Scythe,public static G1()Lu7;,120,70,3,1.0,-16.0,-19.0,0,0,90.0,static_raw_2d
+52,Scythe,public static G1()Lu7;,120,70,4,1.0,16.0,-19.0,0,0,90.0,static_raw_2d
+53,Raider,public static H1()Lu7;,70,50,0,0,-11.0,-13.0,0,0,60.0,static_raw_2d
+53,Raider,public static H1()Lu7;,70,50,1,0,11.0,-13.0,0,0,60.0,static_raw_2d
+53,Raider,public static H1()Lu7;,70,50,2,1.0,0,-1.0,0,0,60.0,static_raw_2d
+54,Skiff,public static I1()Lu7;,32,20,0,0,0,-4.0,0,0,0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,0,0,22.0,110.0,0,-30.0,210.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,1,0,-22.0,110.0,0,30.0,210.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,2,0,20.0,-100.0,0,-120.0,240.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,3,0,-20.0,-100.0,0,120.0,240.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,4,1.0,36.0,95.0,0,-30.0,210.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,5,1.0,-36.0,95.0,0,30.0,210.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,6,1.0,0,95.0,0,0,210.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,7,1.0,40.0,-80.0,0,-60.0,180.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,8,1.0,-40.0,-80.0,0,60.0,180.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,9,2.0,46.0,-43.0,0,-60.0,180.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,10,2.0,-46.0,-43.0,0,60.0,180.0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,11,4.0,-30.0,5.0,90.0,90.0,0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,12,4.0,30.0,5.0,-90.0,-90.0,0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,13,4.0,-30.0,35.0,90.0,90.0,0,static_raw_2d
+73,Kharon,public static J1()Lu7;,250,100,14,4.0,30.0,35.0,-90.0,-90.0,0,static_raw_2d
+88,Kingfisher,public static K1()Lu7;,25,20,0,4.0,0,0,0,0,0,static_raw_2d
+20,F.T. Brabant,public static L0()Lu7;,80,80,0,0,20.0,0,0,-90.0,210.0,static_raw_2d
+20,F.T. Brabant,public static L0()Lu7;,80,80,1,0,-20.0,0,0,90.0,210.0,static_raw_2d
+20,F.T. Brabant,public static L0()Lu7;,80,80,2,1.0,0,-20.0,0,0,210.0,static_raw_2d
+13,Bruiser,public static M0()Lu7;,50,36,0,1.0,0,-4.0,0,0,30.0,static_raw_2d
+75,Colony Ship,public static M1()Lu7;,60,35,,,,,,,,zero_X_tuples
+14,Bulk Freighter,public static N0()Lu7;,100,100,0,0,37.0,34.0,0,0,330.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,0,0,28.0,33.0,0,-60.0,240.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,1,0,-28.0,33.0,0,60.0,240.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,2,0,0,80.0,0,0,330.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,3,1.0,20.0,52.0,0,-60.0,180.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,4,1.0,-20.0,52.0,0,60.0,180.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,5,2.0,16.0,-10.0,0,-60.0,180.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,6,2.0,-16.0,-10.0,0,60.0,180.0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,7,4.0,-16.0,-60.0,90.0,90.0,0,static_raw_2d
+72,Boreas,public static N1()Lu7;,150,60,8,4.0,16.0,-60.0,-90.0,-90.0,0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,0,0,31.0,-34.0,0,-90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,1,0,-31.0,-34.0,0,90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,2,0,0,-116.0,0,0,360.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,3,1.0,18.0,56.0,0,-90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,4,1.0,-18.0,56.0,0,90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,5,1.0,21.0,-5.0,0,-90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,6,1.0,-21.0,-5.0,0,90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,7,1.0,26.0,-63.0,0,-90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,8,1.0,-26.0,-63.0,0,90.0,210.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,9,2.0,0,79.0,0,-30.0,270.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,10,2.0,0,20.0,0,30.0,270.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,11,2.0,0,-39.0,0,0,270.0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,12,4.0,12.0,-90.0,-90.0,-90.0,0,static_raw_2d
+65,Void Battlecruiser,public static N2()Lu7;,174,100,13,4.0,-12.0,-90.0,90.0,90.0,0,static_raw_2d
+15,F.T. Conveyor,public static O0()Lu7;,120,80,0,0,0,50.0,0,0,330.0,static_raw_2d
+15,F.T. Conveyor,public static O0()Lu7;,120,80,1,0,0,23.0,0,0,330.0,static_raw_2d
+15,F.T. Conveyor,public static O0()Lu7;,120,80,2,0,0,-6.0,0,0,330.0,static_raw_2d
+87,Merlin,public static O1()Lu7;,25,20,0,0,0,0,0,0,0,static_raw_2d
+67,Void Frigate,public static O2()Lu7;,90,40,0,0,0,-30.0,0,0,360.0,static_raw_2d
+67,Void Frigate,public static O2()Lu7;,90,40,1,1.0,0,23.0,0,0,270.0,static_raw_2d
+67,Void Frigate,public static O2()Lu7;,90,40,2,1.0,0,-2.0,0,0,270.0,static_raw_2d
+6,Courier,public static P0()Lu7;,50,35,0,0,0,13.0,0,0,60.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,0,0,31.0,-34.0,0,-90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,1,0,-31.0,-34.0,0,90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,2,0,0,-116.0,0,0,360.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,3,1.0,18.0,56.0,0,-90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,4,1.0,-18.0,56.0,0,90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,5,1.0,21.0,-5.0,0,-90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,6,1.0,-21.0,-5.0,0,90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,7,1.0,26.0,-63.0,0,-90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,8,1.0,-26.0,-63.0,0,90.0,210.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,9,2.0,0,79.0,0,-30.0,270.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,10,2.0,0,20.0,0,30.0,270.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,11,2.0,0,-39.0,0,0,270.0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,12,4.0,12.0,-90.0,-90.0,-90.0,0,static_raw_2d
+66,Void Interdictor,public static P2()Lu7;,174,100,13,4.0,-12.0,-90.0,90.0,90.0,0,static_raw_2d
+11,Dawnstar,public static Q0()Lu7;,55,35,0,0,-6.0,-5.0,0,60.0,180.0,static_raw_2d
+11,Dawnstar,public static Q0()Lu7;,55,35,1,0,6.0,-5.0,0,-60.0,180.0,static_raw_2d
+71,Kynigos,public static Q1()Lu7;,64,32,0,0,0,5.0,0,0,150.0,static_raw_2d
+71,Kynigos,public static Q1()Lu7;,64,32,1,1.0,0,-14.0,0,0,150.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,0,0,14.0,25.0,0,0,360.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,1,0,-14.0,25.0,0,0,360.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,2,0,14.0,-3.0,0,0,360.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,3,0,-14.0,-3.0,0,0,360.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,4,0,35.0,-149.0,0,0,360.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,5,0,-35.0,-149.0,0,0,360.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,6,1.0,13.0,151.0,0,-90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,7,1.0,-13.0,151.0,0,90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,8,1.0,20.0,93.0,0,-90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,9,1.0,-20.0,93.0,0,90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,10,1.0,28.0,36.0,0,-90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,11,1.0,-28.0,36.0,0,90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,12,1.0,33.0,-12.0,0,-90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,13,1.0,-33.0,-12.0,0,90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,14,1.0,39.0,-60.0,0,-90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,15,1.0,-39.0,-60.0,0,90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,16,1.0,43.0,-105.0,0,-90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,17,1.0,-43.0,-105.0,0,90.0,210.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,18,2.0,0,174.0,0,0,240.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,19,2.0,0,118.0,0,0,240.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,20,2.0,0,63.0,0,0,240.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,21,2.0,0,-38.0,0,0,240.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,22,2.0,0,-90.0,0,0,240.0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,23,4.0,16.0,-133.0,-90.0,-90.0,0,static_raw_2d
+64,Void Titan,public static Q2()Lu7;,380,180,24,4.0,-16.0,-133.0,90.0,90.0,0,static_raw_2d
+27,Small Tanker,public static R0()Lu7;,80,55,,,,,,,,zero_X_tuples
+74,Ares,public static R1()Lu7;,350,210,0,0,0,104.0,0,0,240.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,1,0,-57.0,66.0,0,60.0,210.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,2,0,57.0,66.0,0,-60.0,210.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,3,0,-68.0,-38.0,0,90.0,210.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,4,0,68.0,-38.0,0,-90.0,210.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,5,0,-32.0,-151.0,0,120.0,240.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,6,0,32.0,-151.0,0,-120.0,240.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,7,1.0,31.0,157.0,0,-60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,8,1.0,-31.0,157.0,0,60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,9,1.0,51.0,130.0,0,-60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,10,1.0,-51.0,130.0,0,60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,11,1.0,0,64.0,0,0,240.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,12,1.0,-44.0,47.0,0,60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,13,1.0,44.0,47.0,0,-60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,14,1.0,-44.0,-2.0,0,60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,15,1.0,44.0,-2.0,0,-60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,16,2.0,0,137.0,0,0,210.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,17,2.0,-38.0,95.0,0,60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,18,2.0,38.0,95.0,0,-60.0,180.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,19,2.0,-39.0,-73.0,0,60.0,150.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,20,2.0,39.0,-73.0,0,-60.0,150.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,21,2.0,-66.0,-101.0,0,60.0,150.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,22,2.0,66.0,-101.0,0,-60.0,150.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,23,5.0,0,-31.0,0,0,210.0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,24,4.0,29.0,-123.0,-90.0,-90.0,0,static_raw_2d
+74,Ares,public static R1()Lu7;,350,210,25,4.0,-29.0,-123.0,90.0,90.0,0,static_raw_2d
+29,Super Tanker,public static S0()Lu7;,200,100,0,0,0,0,0,0,240.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,0,0,35.0,143.0,0,-60.0,240.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,1,0,-35.0,143.0,0,60.0,240.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,2,0,-61.0,-143.0,0,90.0,210.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,3,0,61.0,-143.0,0,-90.0,210.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,4,0,-37.0,-177.0,0,120.0,240.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,5,0,37.0,-177.0,0,-120.0,240.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,6,1.0,32.0,185.0,0,-60.0,180.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,7,1.0,-32.0,185.0,0,60.0,180.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,8,1.0,0,96.0,0,0,180.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,9,1.0,-47.0,25.0,0,60.0,180.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,10,1.0,47.0,25.0,0,-60.0,180.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,11,1.0,-55.0,-101.0,0,60.0,150.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,12,1.0,55.0,-101.0,0,-60.0,150.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,13,2.0,0,163.0,0,0,240.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,14,2.0,-39.0,101.0,0,60.0,180.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,15,2.0,39.0,101.0,0,-60.0,180.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,16,2.0,-49.0,-60.0,0,60.0,150.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,17,2.0,49.0,-60.0,0,-60.0,150.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,18,5.0,0,0,0,0,210.0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,19,4.0,29.0,-115.0,-90.0,-90.0,0,static_raw_2d
+94,Hermes,public static S1()Lu7;,410,178,20,4.0,-29.0,-115.0,90.0,90.0,0,static_raw_2d
+28,Tanker,public static T0()Lu7;,150,64,,,,,,,,zero_X_tuples
+60,Quilyoboda BC,public static T1()Lu7;,174,100,0,0,20.0,78.0,0,0,360.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,1,0,-20.0,78.0,0,0,360.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,2,0,0,-62.0,0,0,360.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,3,1.0,18.0,55.0,0,-90.0,210.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,4,1.0,-18.0,55.0,0,90.0,210.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,5,1.0,18.0,24.0,0,-90.0,210.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,6,1.0,-18.0,24.0,0,90.0,210.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,7,1.0,18.0,-9.0,0,-90.0,210.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,8,1.0,-18.0,-9.0,0,90.0,210.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,9,2.0,36.0,-36.0,0,-30.0,120.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,10,2.0,-36.0,-36.0,0,30.0,120.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,11,2.0,0,68.0,0,0,240.0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,12,4.0,22.0,-60.0,-90.0,-90.0,0,static_raw_2d
+60,Quilyoboda BC,public static T1()Lu7;,174,100,13,4.0,-22.0,-60.0,90.0,90.0,0,static_raw_2d
+12,Gryllidae,public static U0()Lu7;,55,35,0,0,-6.0,5.0,0,60.0,180.0,static_raw_2d
+12,Gryllidae,public static U0()Lu7;,55,35,1,0,6.0,5.0,0,-60.0,180.0,static_raw_2d
+62,Quilyocorda CV,public static U1()Lu7;,30,20,0,0,0,0,0,0,0,static_raw_2d
+19,Intrepid,public static V0()Lu7;,80,80,0,0,14.0,-20.0,0,-90.0,270.0,static_raw_2d
+19,Intrepid,public static V0()Lu7;,80,80,1,0,-14.0,-20.0,0,90.0,270.0,static_raw_2d
+19,Intrepid,public static V0()Lu7;,80,80,2,1.0,0,4.0,0,0,240.0,static_raw_2d
+61,Quilyofirda FR,public static V1()Lu7;,66,44,0,0,10.0,23.0,0,0,360.0,static_raw_2d
+61,Quilyofirda FR,public static V1()Lu7;,66,44,1,0,-10.0,23.0,0,0,360.0,static_raw_2d
+61,Quilyofirda FR,public static V1()Lu7;,66,44,2,1.0,11.0,-8.0,0,-30.0,210.0,static_raw_2d
+61,Quilyofirda FR,public static V1()Lu7;,66,44,3,1.0,-11.0,-8.0,0,30.0,210.0,static_raw_2d
+31,I.M. Onager,public static W0()Lu7;,80,60,0,0,15.0,-15.0,0,0,150.0,static_raw_2d
+31,I.M. Onager,public static W0()Lu7;,80,60,1,0,-15.0,-15.0,0,0,150.0,static_raw_2d
+31,I.M. Onager,public static W0()Lu7;,80,60,2,1.0,0,-20.0,0,0,150.0,static_raw_2d
+31,I.M. Onager,public static W0()Lu7;,80,60,3,4.0,0,5.0,0,0,0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,0,0,45.0,179.0,0,0,360.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,1,0,-45.0,179.0,0,0,360.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,2,0,0,-138.0,0,0,360.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,3,1.0,44.0,141.0,0,-90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,4,1.0,-44.0,141.0,0,90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,5,1.0,44.0,81.0,0,-90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,6,1.0,-44.0,81.0,0,90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,7,1.0,44.0,19.0,0,-90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,8,1.0,-44.0,19.0,0,90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,9,1.0,44.0,-42.0,0,-90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,10,1.0,-44.0,-42.0,0,90.0,210.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,11,2.0,14.0,168.0,0,-30.0,120.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,12,2.0,-14.0,168.0,0,30.0,120.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,13,2.0,42.0,-87.0,0,-30.0,120.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,14,2.0,-42.0,-87.0,0,30.0,120.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,15,2.0,79.0,-110.0,0,-30.0,120.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,16,2.0,-79.0,-110.0,0,30.0,120.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,17,5.0,0,-42.0,0,0,180.0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,18,4.0,30.0,-140.0,-90.0,-90.0,0,static_raw_2d
+59,Quilyotida TI,public static W1()Lu7;,380,180,19,4.0,-30.0,-140.0,90.0,90.0,0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,0,0,64.0,-22.0,0,-70.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,1,0,-64.0,-22.0,0,70.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,2,0,64.0,-64.0,0,-110.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,3,0,-64.0,-64.0,0,110.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,4,1.0,42.0,70.0,0,-45.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,5,1.0,-42.0,70.0,0,45.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,6,1.0,14.0,48.0,0,-45.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,7,1.0,-14.0,48.0,0,45.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,8,2.0,50.0,26.0,0,-45.0,150.0,static_raw_2d
+32,I.M. Princeps,public static X0()Lu7;,190,160,9,2.0,-50.0,26.0,0,45.0,150.0,static_raw_2d
+30,I.M. Reliant,public static Y0()Lu7;,50,35,0,0,0,-4.0,0,0,90.0,static_raw_2d
+7,Mustang,public static Z0()Lu7;,50,35,0,0,0,8.0,0,0,0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,0,0,15.0,40.0,0,-45.0,210.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,1,0,-15.0,40.0,0,45.0,210.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,2,0,-34.0,0,0,90.0,210.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,3,0,-34.0,-25.0,0,90.0,210.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,4,0,34.0,0,0,-90.0,210.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,5,0,34.0,-25.0,0,-90.0,210.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,6,1.0,19.0,11.0,0,-30.0,150.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,7,1.0,-19.0,11.0,0,30.0,150.0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,8,4.0,18.0,-15.0,-90.0,-90.0,0,static_raw_2d
+24,Odyssey,public static a1()Lu7;,128,80,9,4.0,-18.0,-15.0,90.0,90.0,0,static_raw_2d
+17,Onager,public static b1()Lu7;,80,60,0,0,15.0,-13.0,0,0,150.0,static_raw_2d
+17,Onager,public static b1()Lu7;,80,60,1,0,-15.0,-13.0,0,0,150.0,static_raw_2d
+17,Onager,public static b1()Lu7;,80,60,2,1.0,0,-20.0,0,0,150.0,static_raw_2d
+17,Onager,public static b1()Lu7;,80,60,3,4.0,0,5.0,0,0,0,static_raw_2d
+23,Pioneer,public static c1()Lu7;,128,80,0,0,30.0,-36.0,0,-90.0,330.0,static_raw_2d
+23,Pioneer,public static c1()Lu7;,128,80,1,0,-30.0,-36.0,0,90.0,330.0,static_raw_2d
+23,Pioneer,public static c1()Lu7;,128,80,2,1.0,-20.0,45.0,0,45.0,150.0,static_raw_2d
+23,Pioneer,public static c1()Lu7;,128,80,3,1.0,20.0,45.0,0,-45.0,150.0,static_raw_2d
+23,Pioneer,public static c1()Lu7;,128,80,4,4.0,-1.0,-15.0,0,0,0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,0,0,64.0,-22.0,0,-70.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,1,0,-64.0,-22.0,0,70.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,2,0,64.0,-64.0,0,-110.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,3,0,-64.0,-64.0,0,110.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,4,1.0,42.0,70.0,0,-45.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,5,1.0,-42.0,70.0,0,45.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,6,1.0,14.0,48.0,0,-45.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,7,1.0,-14.0,48.0,0,45.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,8,2.0,50.0,26.0,0,-45.0,150.0,static_raw_2d
+25,Princeps Navis,public static d1()Lu7;,190,160,9,2.0,-50.0,26.0,0,45.0,150.0,static_raw_2d
+95,Hyperblock Probe,public static d2()Lu7;,30,30,,,,,,,,zero_X_tuples
+96,Rhino Princeps,public static e1()Lu7;,190,160,0,0,64.0,-22.0,0,-70.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,1,0,-64.0,-22.0,0,70.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,2,0,64.0,-64.0,0,-110.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,3,0,-64.0,-64.0,0,110.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,4,1.0,42.0,70.0,0,-45.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,5,1.0,-42.0,70.0,0,45.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,6,1.0,14.0,48.0,0,-45.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,7,1.0,-14.0,48.0,0,45.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,8,2.0,50.0,26.0,0,-45.0,150.0,static_raw_2d
+96,Rhino Princeps,public static e1()Lu7;,190,160,9,2.0,-50.0,26.0,0,45.0,150.0,static_raw_2d
+93,Retriever,public static f0()Lu7;,25,20,,,,,,,,zero_X_tuples
+16,Prospero,public static f1()Lu7;,64,48,0,0,0,0,0,0,90.0,static_raw_2d
+8,Reliant,public static g1()Lu7;,50,35,0,0,0,-4.0,0,0,90.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,0,0,18.0,93.0,0,-60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,1,0,-18.0,93.0,0,60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,2,0,37.0,-99.0,0,-90.0,210.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,3,0,-37.0,-99.0,0,90.0,210.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,4,1.0,34.0,62.0,0,-60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,5,1.0,-34.0,62.0,0,60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,6,1.0,34.0,15.0,0,-60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,7,1.0,-34.0,15.0,0,60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,8,2.0,55.0,-50.0,0,-60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,9,2.0,-55.0,-50.0,0,60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,10,2.0,25.0,-30.0,0,-60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,11,2.0,-25.0,-30.0,0,60.0,180.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,12,2.0,0,45.0,0,0,120.0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,13,4.0,-25.0,-70.0,90.0,90.0,0,static_raw_2d
+33,F.E.R. Battleship,public static h0()Lu7;,240,100,14,4.0,25.0,-70.0,-90.0,-90.0,0,static_raw_2d
+9,Reliant Mk2,public static h1()Lu7;,50,35,0,0,0,-4.0,0,0,90.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,0,0,18.0,93.0,0,-60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,1,0,-18.0,93.0,0,60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,2,0,37.0,-99.0,0,-90.0,210.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,3,0,-37.0,-99.0,0,90.0,210.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,4,1.0,34.0,62.0,0,-60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,5,1.0,-34.0,62.0,0,60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,6,1.0,34.0,15.0,0,-60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,7,1.0,-34.0,15.0,0,60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,8,2.0,55.0,-50.0,0,-60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,9,2.0,-55.0,-50.0,0,60.0,180.0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,10,4.0,-25.0,-70.0,90.0,90.0,0,static_raw_2d
+89,F.E.R. Battleship Mk2,public static i0()Lu7;,240,100,11,4.0,25.0,-70.0,-90.0,-90.0,0,static_raw_2d
+92,Salvager,public static i1()Lu7;,120,80,0,1.0,14.0,-10.0,0,-60.0,150.0,static_raw_2d
+47,T.A. Aggressor,public static i2()Lu7;,70,70,0,0,0,-18.0,-180.0,-180.0,210.0,static_raw_2d
+47,T.A. Aggressor,public static i2()Lu7;,70,70,1,1.0,18.0,-9.0,0,-60.0,240.0,static_raw_2d
+47,T.A. Aggressor,public static i2()Lu7;,70,70,2,1.0,-18.0,-9.0,0,60.0,240.0,static_raw_2d
+47,T.A. Aggressor,public static i2()Lu7;,70,70,3,2.0,0,11.0,0,0,270.0,static_raw_2d
+38,F.E.R. Runner,public static j0()Lu7;,80,30,,,,,,,,zero_X_tuples
+4,Crate,public static j1()Lu7;,30,20,0,0,0,0,0,0,0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,0,0,15.0,75.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,1,0,-15.0,75.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,2,0,44.0,25.0,0,-60.0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,3,0,-44.0,25.0,0,60.0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,4,0,15.0,-72.0,-180.0,-180.0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,5,0,-15.0,-72.0,180.0,180.0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,6,1.0,18.0,40.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,7,1.0,-18.0,40.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,8,1.0,39.0,62.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,9,1.0,-39.0,62.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,10,1.0,0,-35.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,11,2.0,0,10.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,12,2.0,30.0,-10.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,13,2.0,-30.0,-10.0,0,0,240.0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,14,4.0,-27.0,-60.0,90.0,90.0,0,static_raw_2d
+44,T.A. Battleship,public static j2()Lu7;,200,140,15,4.0,27.0,-60.0,-90.0,-90.0,0,static_raw_2d
+82,F.E.R. Bomber,public static k0()Lu7;,25,20,0,4.0,0,0,0,0,0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,0,0,20.0,94.0,0,-30.0,240.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,1,0,-20.0,94.0,0,30.0,240.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,2,0,38.0,-28.0,0,-90.0,210.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,3,0,-38.0,-28.0,0,90.0,210.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,4,0,26.0,-110.0,0,-120.0,240.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,5,0,-26.0,-110.0,0,120.0,240.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,6,1.0,0,78.0,0,0,210.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,7,1.0,27.0,20.0,0,-90.0,240.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,8,1.0,-27.0,20.0,0,90.0,240.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,9,2.0,0,-40.0,0,0,210.0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,10,4.0,30.0,-80.0,-90.0,-90.0,0,static_raw_2d
+26,Sovereign,public static k1()Lu7;,200,80,11,4.0,-30.0,-80.0,90.0,90.0,0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,0,0,15.0,75.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,1,0,-15.0,75.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,2,0,44.0,25.0,0,-60.0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,3,0,-44.0,25.0,0,60.0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,4,0,15.0,-72.0,-180.0,-180.0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,5,0,-15.0,-72.0,180.0,180.0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,6,1.0,24.0,40.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,7,1.0,-24.0,40.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,8,1.0,39.0,62.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,9,1.0,-39.0,62.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,10,2.0,30.0,-10.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,11,2.0,-30.0,-10.0,0,0,240.0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,12,4.0,-27.0,-60.0,90.0,90.0,0,static_raw_2d
+90,T.A. Battlecarrier,public static k2()Lu7;,200,140,13,4.0,27.0,-60.0,-90.0,-90.0,0,static_raw_2d
+22,Valiant,public static l1()Lu7;,128,80,0,0,18.0,44.0,0,0,120.0,static_raw_2d
+22,Valiant,public static l1()Lu7;,128,80,1,0,-18.0,44.0,0,0,120.0,static_raw_2d
+22,Valiant,public static l1()Lu7;,128,80,2,1.0,0,20.0,0,0,120.0,static_raw_2d
+22,Valiant,public static l1()Lu7;,128,80,3,2.0,0,-27.0,0,0,120.0,static_raw_2d
+22,Valiant,public static l1()Lu7;,128,80,4,4.0,-24.0,-17.0,90.0,90.0,0,static_raw_2d
+22,Valiant,public static l1()Lu7;,128,80,5,4.0,24.0,-17.0,-90.0,-90.0,0,static_raw_2d
+83,T.A. Bomber,public static l2()Lu7;,25,20,0,4.0,0,0,0,0,0,static_raw_2d
+37,F.E.R. Corvette,public static m0()Lu7;,50,20,0,0,0,0,0,0,120.0,static_raw_2d
+21,Venture,public static m1()Lu7;,104,68,0,0,15.0,30.0,0,-90.0,240.0,static_raw_2d
+21,Venture,public static m1()Lu7;,104,68,1,0,-15.0,30.0,0,90.0,240.0,static_raw_2d
+21,Venture,public static m1()Lu7;,104,68,2,1.0,18.0,-20.0,0,-45.0,180.0,static_raw_2d
+21,Venture,public static m1()Lu7;,104,68,3,1.0,-18.0,-20.0,0,45.0,180.0,static_raw_2d
+21,Venture,public static m1()Lu7;,104,68,4,4.0,0,10.0,0,0,0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,0,0,12.0,55.0,0,-60.0,180.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,1,0,-12.0,55.0,0,60.0,180.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,2,0,0,-67.0,0,0,360.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,3,1.0,0,74.0,0,0,240.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,4,1.0,-22.0,10.0,0,60.0,180.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,5,1.0,22.0,10.0,0,-60.0,180.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,6,1.0,-29.0,-42.0,0,60.0,180.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,7,1.0,29.0,-42.0,0,-60.0,180.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,8,2.0,0,30.0,0,0,240.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,9,2.0,0,-20.0,0,0,240.0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,10,4.0,-16.0,-60.0,90.0,90.0,0,static_raw_2d
+34,F.E.R. Cruiser,public static n0()Lu7;,150,60,11,4.0,16.0,-60.0,-90.0,-90.0,0,static_raw_2d
+18,Nightstalker,public static n1()Lu7;,80,60,0,0,15.0,-13.0,0,-90.0,330.0,static_raw_2d
+18,Nightstalker,public static n1()Lu7;,80,60,1,0,-15.0,-13.0,0,90.0,330.0,static_raw_2d
+18,Nightstalker,public static n1()Lu7;,80,60,2,1.0,0,38.0,0,0,240.0,static_raw_2d
+18,Nightstalker,public static n1()Lu7;,80,60,3,1.0,0,5.0,0,0,240.0,static_raw_2d
+50,T.A. Corvette,public static n2()Lu7;,40,24,0,0,0,-3.0,0,0,150.0,static_raw_2d
+35,F.E.R. Destroyer,public static o0()Lu7;,110,40,0,0,11.0,17.0,0,-60.0,180.0,static_raw_2d
+35,F.E.R. Destroyer,public static o0()Lu7;,110,40,1,0,-11.0,17.0,0,60.0,180.0,static_raw_2d
+35,F.E.R. Destroyer,public static o0()Lu7;,110,40,2,0,-18.0,-24.0,0,90.0,180.0,static_raw_2d
+35,F.E.R. Destroyer,public static o0()Lu7;,110,40,3,0,18.0,-24.0,0,-90.0,180.0,static_raw_2d
+35,F.E.R. Destroyer,public static o0()Lu7;,110,40,4,1.0,0,41.0,0,0,240.0,static_raw_2d
+35,F.E.R. Destroyer,public static o0()Lu7;,110,40,5,1.0,0,-6.0,0,0,240.0,static_raw_2d
+35,F.E.R. Destroyer,public static o0()Lu7;,110,40,6,4.0,0,-37.0,0,0,0,static_raw_2d
+10,Wander,public static o1()Lu7;,55,35,0,0,0,-8.0,0,0,150.0,static_raw_2d
+10,Wander,public static o1()Lu7;,55,35,1,0,0,8.0,0,0,150.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,0,0,0,63.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,1,0,22.0,29.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,2,0,-22.0,29.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,3,0,28.0,-18.0,0,-90.0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,4,0,-27.0,-18.0,0,90.0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,5,0,14.0,-56.0,-180.0,-180.0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,6,0,-15.0,-56.0,180.0,180.0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,7,1.0,17.0,47.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,8,1.0,-17.0,47.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,9,1.0,0,24.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,10,2.0,23.0,8.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,11,2.0,-23.0,8.0,0,0,240.0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,12,4.0,-14.0,-41.0,90.0,90.0,0,static_raw_2d
+45,T.A. Cruiser,public static o2()Lu7;,180,100,13,4.0,14.0,-41.0,-90.0,-90.0,0,static_raw_2d
+79,F.E.R. Fighter,public static p0()Lu7;,25,20,0,0,0,0,0,0,0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,0,0,41.0,67.0,0,-60.0,210.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,1,0,-41.0,67.0,0,60.0,210.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,2,0,47.0,5.0,0,-60.0,210.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,3,0,-47.0,5.0,0,60.0,210.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,4,0,49.0,-76.0,0,-120.0,240.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,5,0,-49.0,-76.0,0,120.0,240.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,6,1.0,10.0,64.0,0,-45.0,180.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,7,1.0,-10.0,64.0,0,45.0,180.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,8,1.0,26.0,35.0,0,-45.0,180.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,9,1.0,-26.0,35.0,0,45.0,180.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,10,1.0,13.0,2.0,0,-45.0,180.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,11,1.0,-13.0,2.0,0,45.0,180.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,12,2.0,0,-45.0,0,0,240.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,13,2.0,-37.0,-32.0,0,45.0,120.0,static_raw_2d
+56,Iro Battleship,public static p1()Lu7;,255,112,14,2.0,37.0,-32.0,0,-45.0,120.0,static_raw_2d
+46,T.A. Destroyer,public static p2()Lu7;,128,60,0,0,0,-36.0,-180.0,-180.0,210.0,static_raw_2d
+46,T.A. Destroyer,public static p2()Lu7;,128,60,1,0,15.0,-8.0,0,-60.0,240.0,static_raw_2d
+46,T.A. Destroyer,public static p2()Lu7;,128,60,2,0,-15.0,-8.0,0,60.0,240.0,static_raw_2d
+46,T.A. Destroyer,public static p2()Lu7;,128,60,3,1.0,0,38.0,0,0,240.0,static_raw_2d
+46,T.A. Destroyer,public static p2()Lu7;,128,60,4,1.0,0,5.0,0,0,240.0,static_raw_2d
+46,T.A. Destroyer,public static p2()Lu7;,128,60,5,4.0,0,-20.0,0,0,0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,0,0,11.0,66.0,0,-30.0,210.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,1,0,-11.0,66.0,0,30.0,210.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,2,0,0,28.0,0,0,210.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,3,0,0,-61.0,0,0,330.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,4,1.0,18.0,43.0,0,-45.0,180.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,5,1.0,-18.0,43.0,0,45.0,180.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,6,1.0,21.0,-1.0,0,-45.0,180.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,7,1.0,-21.0,-1.0,0,45.0,180.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,8,2.0,25.0,-29.0,0,-45.0,120.0,static_raw_2d
+57,Iro Cruiser,public static q1()Lu7;,184,92,9,2.0,-25.0,-29.0,0,45.0,120.0,static_raw_2d
+80,T.A. Fighter,public static q2()Lu7;,25,20,0,0,0,0,0,0,0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,0,0,18.0,93.0,0,-60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,1,0,-18.0,93.0,0,60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,2,0,37.0,-99.0,0,-90.0,210.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,3,0,-37.0,-99.0,0,90.0,210.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,4,1.0,34.0,62.0,0,-60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,5,1.0,-34.0,62.0,0,60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,6,1.0,34.0,15.0,0,-60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,7,1.0,-34.0,15.0,0,60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,8,2.0,55.0,-50.0,0,-60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,9,2.0,-55.0,-50.0,0,60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,10,2.0,25.0,-30.0,0,-60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,11,2.0,-25.0,-30.0,0,60.0,180.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,12,2.0,0,45.0,0,0,120.0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,13,4.0,-25.0,-70.0,90.0,90.0,0,static_raw_2d
+69,F.E.R. Flagship,public static r0()Lu7;,240,100,14,4.0,25.0,-70.0,-90.0,-90.0,0,static_raw_2d
+58,Iro Destroyer,public static r1()Lu7;,96,56,0,1.0,18.0,1.0,0,-45.0,180.0,static_raw_2d
+58,Iro Destroyer,public static r1()Lu7;,96,56,1,1.0,-18.0,1.0,0,45.0,180.0,static_raw_2d
+58,Iro Destroyer,public static r1()Lu7;,96,56,2,2.0,0,-19.0,0,0,120.0,static_raw_2d
+36,F.E.R. Frigate,public static s0()Lu7;,80,30,0,0,0,26.0,0,0,150.0,static_raw_2d
+36,F.E.R. Frigate,public static s0()Lu7;,80,30,1,0,0,0,0,0,150.0,static_raw_2d
+36,F.E.R. Frigate,public static s0()Lu7;,80,30,2,1.0,0,-26.0,0,0,150.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,0,0,27.0,157.0,0,-45.0,210.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,1,0,-27.0,157.0,0,45.0,210.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,2,0,82.0,48.0,0,-60.0,210.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,3,0,-82.0,48.0,0,60.0,210.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,4,0,86.0,-59.0,0,-120.0,240.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,5,0,-86.0,-59.0,0,120.0,240.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,6,0,22.0,-169.0,0,-120.0,240.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,7,0,-22.0,-169.0,0,120.0,240.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,8,1.0,30.0,135.0,0,-45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,9,1.0,-30.0,135.0,0,45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,10,1.0,39.0,104.0,0,-45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,11,1.0,-39.0,104.0,0,45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,12,1.0,46.0,69.0,0,-45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,13,1.0,-46.0,69.0,0,45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,14,1.0,50.0,34.0,0,-45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,15,1.0,-50.0,34.0,0,45.0,180.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,16,2.0,81.0,-2.0,0,-45.0,120.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,17,2.0,-81.0,-2.0,0,45.0,120.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,18,2.0,39.0,-57.0,0,-45.0,120.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,19,2.0,-39.0,-57.0,0,45.0,120.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,20,2.0,0,-69.0,0,0,240.0,static_raw_2d
+55,Iro Titan,public static s1()Lu7;,380,200,21,5.0,0,-17.0,0,0,210.0,static_raw_2d
+49,T.A. Frigate,public static s2()Lu7;,90,40,0,0,0,22.0,0,0,210.0,static_raw_2d
+49,T.A. Frigate,public static s2()Lu7;,90,40,1,0,-12.0,-8.0,0,0,210.0,static_raw_2d
+49,T.A. Frigate,public static s2()Lu7;,90,40,2,0,12.0,-8.0,0,0,210.0,static_raw_2d
+49,T.A. Frigate,public static s2()Lu7;,90,40,3,0,0,-5.0,0,0,210.0,static_raw_2d
+49,T.A. Frigate,public static s2()Lu7;,90,40,4,0,0,-28.0,0,0,210.0,static_raw_2d
+86,Type1-B Bomber,public static t0()Lu7;,25,20,0,4.0,0,0,0,0,0,static_raw_2d
+70,Homebase,public static t1()Lu7;,240,100,,,,,,,,zero_X_tuples
+48,T.A. Scorpion,public static t2()Lu7;,62,46,0,0,10.0,18.0,0,-60.0,240.0,static_raw_2d
+48,T.A. Scorpion,public static t2()Lu7;,62,46,1,0,-10.0,18.0,0,60.0,240.0,static_raw_2d
+48,T.A. Scorpion,public static t2()Lu7;,62,46,2,0,16.0,-15.0,0,-120.0,240.0,static_raw_2d
+48,T.A. Scorpion,public static t2()Lu7;,62,46,3,0,-16.0,-15.0,0,120.0,240.0,static_raw_2d
+48,T.A. Scorpion,public static t2()Lu7;,62,46,4,4.0,0,-5.0,0,0,0,static_raw_2d
+63,Kalo,public static u1()Lu7;,96,56,0,2.0,12.0,1.0,0,0,0,static_raw_2d
+63,Kalo,public static u1()Lu7;,96,56,1,2.0,-12.0,1.0,0,0,0,static_raw_2d
+85,Type1-F Fighter,public static v0()Lu7;,25,20,0,0,0,0,0,0,0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,0,0,38.0,-66.0,-180.0,-120.0,180.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,1,0,-38.0,-66.0,180.0,120.0,180.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,2,0,64.0,-45.0,-180.0,-120.0,180.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,3,0,-64.0,-45.0,180.0,120.0,180.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,4,1.0,0,12.0,0,0,150.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,5,1.0,-34.0,0,0,45.0,120.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,6,1.0,34.0,0,0,-45.0,120.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,7,1.0,-40.0,70.0,0,45.0,120.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,8,1.0,40.0,70.0,0,-45.0,120.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,9,2.0,0,50.0,0,0,150.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,10,2.0,-25.0,38.0,0,30.0,90.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,11,2.0,25.0,38.0,0,-30.0,90.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,12,2.0,-50.0,24.0,0,30.0,90.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,13,2.0,50.0,24.0,0,-30.0,90.0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,14,4.0,-32.0,-32.0,90.0,90.0,0,static_raw_2d
+39,O.S.C. Battleship,public static v1()Lu7;,200,140,15,4.0,32.0,-32.0,-90.0,-90.0,0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,0,0,38.0,-66.0,-180.0,-120.0,180.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,1,0,-38.0,-66.0,180.0,120.0,180.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,2,0,64.0,-45.0,-180.0,-120.0,180.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,3,0,-64.0,-45.0,180.0,120.0,180.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,4,1.0,-34.0,0,0,45.0,120.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,5,1.0,34.0,0,0,-45.0,120.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,6,1.0,-40.0,70.0,0,45.0,120.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,7,1.0,40.0,70.0,0,-45.0,120.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,8,2.0,-25.0,38.0,0,30.0,90.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,9,2.0,25.0,38.0,0,-30.0,90.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,10,2.0,-50.0,24.0,0,30.0,90.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,11,2.0,50.0,24.0,0,-30.0,90.0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,12,4.0,-32.0,-32.0,90.0,90.0,0,static_raw_2d
+91,O.S.C. C-Battleship,public static w1()Lu7;,200,140,13,4.0,32.0,-32.0,-90.0,-90.0,0,static_raw_2d
+118,Condor,public static x0()Lu7;,150,100,0,0,19.0,63.0,0,-30.0,150.0,static_raw_2d
+118,Condor,public static x0()Lu7;,150,100,1,0,-19.0,63.0,0,30.0,150.0,static_raw_2d
+118,Condor,public static x0()Lu7;,150,100,2,1.0,22.0,1.0,0,-30.0,150.0,static_raw_2d
+118,Condor,public static x0()Lu7;,150,100,3,1.0,-22.0,1.0,0,30.0,150.0,static_raw_2d
+118,Condor,public static x0()Lu7;,150,100,4,4.0,14.0,-26.0,-90.0,-90.0,0,static_raw_2d
+118,Condor,public static x0()Lu7;,150,100,5,4.0,-14.0,-26.0,90.0,90.0,0,static_raw_2d
+84,O.S.C Bomber,public static x1()Lu7;,25,20,0,4.0,0,0,0,0,0,static_raw_2d
+43,O.S.C. Corvette,public static z1()Lu7;,30,35,0,0,0,0,0,0,0,static_raw_2d
