@@ -1,0 +1,61 @@
+{
+  "title": "Tahap 11 sensor HUD and weapon variants",
+  "source_version": "0.9995(44)",
+  "smali_sha256": "f42dbd7ebab9e1ec50a5fe3a5f1b9d638b1102575f36596e0b928478295129d5",
+  "verification": "static_only",
+  "upgrades": [
+    {
+      "id": 210,
+      "name": "Grav Sensors",
+      "registry": "h1.H",
+      "runtime_field": "w7.R",
+      "value": 1,
+      "effect": "direction and rough size of offscreen contacts, no colour disposition",
+      "source": "w7/q7/strings.xml"
+    },
+    {
+      "id": 211,
+      "name": "Analytic Sensors",
+      "registry": "h1.I",
+      "runtime_field": "w7.R",
+      "value": 2,
+      "effect": "direction and rough size plus faction/threat classification of offscreen contacts",
+      "source": "w7/q7/strings.xml"
+    },
+    {
+      "id": 213,
+      "name": "Adaptive Shielding",
+      "registry": "h1.K",
+      "runtime_field": "e8.m",
+      "value": true,
+      "effect": "incoming first shield channel multiplied by 0.85",
+      "source": "w7/e8"
+    }
+  ],
+  "sensor_pipeline": [
+    "w7.R equipment bit",
+    "q7.a radar on/off and analytic switch",
+    "q7.d contact registration",
+    "q7.b contact icon based on relations and size class"
+  ],
+  "unknown_original_values": [
+    "sensor_max_distance",
+    "lock_on_max_distance",
+    "NPC detection radius"
+  ],
+  "weapon_controller_subclasses": {
+    "projectile": [
+      "a5",
+      "f5"
+    ],
+    "beam": [
+      "z4"
+    ],
+    "torpedo": [
+      "gi"
+    ],
+    "defense_special": "f8.d / type 2"
+  },
+  "caution": "HUD sensor range, lock range and weapon firing range are distinct. 3D concepts are design additions, not verified source behavior.",
+  "runtime_tests_completed": 0
+}
