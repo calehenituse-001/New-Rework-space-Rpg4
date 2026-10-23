@@ -20,6 +20,7 @@
 - [14 — Combat Harness Godot v0.2.4: implementasi & tes](reports/14_COMBAT_HARNESS_V024.md)
 - [15 — Android v0.2.4 feedback + Target NPC camera fix v0.2.5](reports/15_ANDROID_TARGET_CAMERA_FIX_V025.md)
 - [16 — Audit Weapon Models GLB Alignment v0.1.1](reports/16_WEAPON_MODELS_ALIGNMENT_V011.md)
+- [17 — Kamera v0.2.6: otomatis kembali CHASE saat NPC hancur](reports/17_CAMERA_AUTORETURN_V026.md)
 - [Riwayat tes Godot Android dan roadmap](reports/PROJECT_STATUS_AND_TESTS.md)
 - [Data hasil audit](data/)
 
