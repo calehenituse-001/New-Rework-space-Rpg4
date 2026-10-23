@@ -1,0 +1,81 @@
+{
+  "stage": 9,
+  "version": "0.9995(44)",
+  "units": "original 2D source internal units; test values in Godot only illustrative",
+  "verified_source_constants": {
+    "target_score_rebuild_timer": "300 + Random.nextInt(300) (tick unit pending)",
+    "retarget_timer": "5000 + Random.nextInt(10000) (tick unit pending)",
+    "score_distance_multipliers": [
+      0.8,
+      1.2,
+      1.7,
+      2.2
+    ],
+    "score_value_multipliers": [
+      1,
+      0.85,
+      0.55,
+      0.15,
+      0.05
+    ],
+    "npc_condition_constants": [
+      0.35,
+      0.1,
+      0.5,
+      0.15
+    ],
+    "range_summary": "f8.r=max(zj.m) across installed mounts with zj.a != 2"
+  },
+  "tests": [
+    {
+      "id": "T9-A",
+      "name": "target scoring refresh",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-B",
+      "name": "dead or nonfinite target cleanup",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-C",
+      "name": "weapon range check per hardpoint",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-D",
+      "name": "side turret limited yaw and hull occlusion",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-E",
+      "name": "joystick override preserves inertia",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-F",
+      "name": "low defense triggers maneuver conditional",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-G",
+      "name": "NPC range-aware steering",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-H",
+      "name": "predictive aiming can miss",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-I",
+      "name": "carrier fighter parent decoupling",
+      "status": "not_run"
+    },
+    {
+      "id": "T9-J",
+      "name": "combat state retarget reproducibility",
+      "status": "not_run"
+    }
+  ]
+}
